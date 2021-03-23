@@ -1,0 +1,109 @@
+[{
+        "binaryKey": "1000010",
+        "name": "3rd Canadian Infantry"
+    },
+    {
+        "binaryKey": "1000110",
+        "name": "3rd Us Armored"
+    },
+    {
+        "binaryKey": "10000100",
+        "name": "2nd Guards"
+    },
+    {
+        "binaryKey": "10000110",
+        "name": "29th Tank Corps"
+    },
+    {
+        "binaryKey": "10001110",
+        "name": "184th Guards"
+    },
+    {
+        "binaryKey": "10001111",
+        "name": "26th Guards"
+    },
+    {
+        "binaryKey": "10010000",
+        "name": "3rd Guards Mech"
+    },
+    {
+        "binaryKey": "10010001",
+        "name": "44th Guards"
+    },
+    {
+        "binaryKey": "10010011",
+        "name": "Group Bezugly"
+    },
+    {
+        "binaryKey": "10010100",
+        "name": "Group Tyurin"
+    },
+    {
+        "binaryKey": "10010110",
+        "name": "9th Guards"
+    },
+    {
+        "binaryKey": "10011000",
+        "name": "15th Infantry"
+    },
+    {
+        "binaryKey": "10011001",
+        "name": "2e Blindee"
+    },
+    {
+        "binaryKey": "11111111",
+        "name": "1st Polish Infantry"
+    },
+    {
+        "binaryKey": "100000100",
+        "name": "3rd Guards Tank"
+    },
+    {
+        "binaryKey": "100000101",
+        "name": "Armia Krajowa"
+    },
+    {
+        "binaryKey": "100001000",
+        "name": "1st Pancerna"
+    },
+    {
+        "binaryKey": "100001110",
+        "name": "84th Gvard. Strelkovy"
+    },
+    {
+        "binaryKey": "101011111",
+        "name": "Gruppa Vyborg"
+    },
+    {
+        "binaryKey": "101100000",
+        "name": "126th Strelki"
+    },
+    {
+        "binaryKey": "101100101",
+        "name": "358 Strelkovy"
+    },
+    {
+        "binaryKey": "110110011",
+        "name": "5th Cavaleri"
+    },
+    {
+        "binaryKey": "110110100",
+        "name": "3rd VDV"
+    },
+    {
+        "binaryKey": "110110101",
+        "name": "7th Guards Mech"
+    },
+    {
+        "binaryKey": "110110110",
+        "name": "Morskaya"
+    },
+    {
+        "binaryKey": "1001110011",
+        "name": "6th Airborne"
+    },
+    {
+        "binaryKey": "1001110100",
+        "name": "2nd US"
+    }
+]

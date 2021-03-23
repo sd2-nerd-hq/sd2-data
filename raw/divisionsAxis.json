@@ -1,0 +1,109 @@
+[{
+        "binaryKey": "1000111",
+        "name": "5th Panzer"
+    },
+    {
+        "binaryKey": "10000111",
+        "name": "20th Panzer"
+    },
+    {
+        "binaryKey": "10001000",
+        "name": "28th Jager"
+    },
+    {
+        "binaryKey": "10001001",
+        "name": "78th Sturm"
+    },
+    {
+        "binaryKey": "10001010",
+        "name": "Gruppe Harteneck"
+    },
+    {
+        "binaryKey": "10001011",
+        "name": "Koruck 559"
+    },
+    {
+        "binaryKey": "10001100",
+        "name": "1st Lovas"
+    },
+    {
+        "binaryKey": "10001101",
+        "name": "12th Tartalekos"
+    },
+    {
+        "binaryKey": "10010101",
+        "name": "14th Infanterie"
+    },
+    {
+        "binaryKey": "10011010",
+        "name": "116th Panzer"
+    },
+    {
+        "binaryKey": "10011011",
+        "name": "21st Panzer"
+    },
+    {
+        "binaryKey": "10011100",
+        "name": "352nd Infantry"
+    },
+    {
+        "binaryKey": "10011101",
+        "name": "Pz Lehr"
+    },
+    {
+        "binaryKey": "100000011",
+        "name": "1st Skijager"
+    },
+    {
+        "binaryKey": "100000110",
+        "name": "5 Panzer Wiking"
+    },
+    {
+        "binaryKey": "100000111",
+        "name": "Fallschrim Panzer H G"
+    },
+    {
+        "binaryKey": "100001101",
+        "name": "25th Panzergrenadier"
+    },
+    {
+        "binaryKey": "101011110",
+        "name": "Panssaridivisioona"
+    },
+    {
+        "binaryKey": "101100010",
+        "name": "Ryhma Raapppana"
+    },
+    {
+        "binaryKey": "101100100",
+        "name": "122 Infantry"
+    },
+    {
+        "binaryKey": "110101110",
+        "name": "16th Panzer"
+    },
+    {
+        "binaryKey": "110101111",
+        "name": "97th Guards"
+    },
+    {
+        "binaryKey": "110110001",
+        "name": "1st Blindata"
+    },
+    {
+        "binaryKey": "110110010",
+        "name": "4th Munte"
+    },
+    {
+        "binaryKey": "1001101111",
+        "name": "12th Panzer"
+    },
+    {
+        "binaryKey": "1001110000",
+        "name": "17th SS"
+    },
+    {
+        "binaryKey": "1001110010",
+        "name": "3rd Fallschirmjäger"
+    }
+]

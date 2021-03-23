@@ -1,0 +1,70 @@
+{
+    "sd2_league": [
+        "Bobr",
+        "Brest, west",
+        "Haroshaje",
+        "Krupa",
+        "Orsha, east",
+        "Orsha, north",
+        "Shchedrin",
+        "Sianno",
+        "Siedlce",
+        "Slutsk",
+        "Slutsk, east",
+        "Slutsk, west",
+        "Thali Ihantala",
+        "Tsel",
+        "Zbuczyn"
+    ],
+    "byPlayerSize": {
+        "2": [
+            "Bobr",
+            "Haroshaje",
+            "Krupa",
+            "Lenina",
+            "Orsha East",
+            "Orsha North",
+            "Ostrowno",
+            "Shchedrin",
+            "Sianno",
+            "Slutsk East",
+            "Slutsk West",
+            "Slutsk",
+            "Tsel",
+            "Siedlce"
+        ],
+        "4": [
+            "Autobahn Zur Holle",
+            "Beshankovichy",
+            "Bobrujsk West",
+            "Lenina",
+            "Losnica",
+            "Novka",
+            "Ostrowno",
+            "Shchedrin",
+            "Slutsk",
+            "Veselovo",
+            "Vitebsk East",
+            "Siedlce"
+        ],
+        "6": [
+            "Krupki",
+            "Lenina",
+            "Lipen",
+            "Lyakhavichy",
+            "Mogilev",
+            "Naratch Lake",
+            "Ostrowno",
+            "Pleshchenitsy South",
+            "Shchedrin",
+            "Slutsk",
+            "Smolyany"
+        ],
+        "8": [
+            "Lenina",
+            "Ostrowno",
+            "Shchedrin",
+            "Slutsk"
+        ]
+    }
+}

@@ -1,1 +1,3 @@
-"# sd2-data" 
+## Repository holds data for SD2
+
+## Usage
