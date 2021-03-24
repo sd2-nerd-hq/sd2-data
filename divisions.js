@@ -2,14 +2,13 @@ const allies = require("./raw/divisionsAllies.json")
 const axis = require("./raw/divisionsAxis.json")
 
 const createKeyMap = (divisionData => {
-    const byBinaryKey = {}
+    const byId = {}
     divisionData.forEach((division) => {
-        byBinaryKey[division.binaryKey] = division
+        byId[division.id] = division.name
     })
-    return byBinaryKey
+    return byId
 })
 
-const divisionByBinaryKeyAllies = createKeyMap(allies)
-const divisionByBinaryKeyAxis = createKeyMap(axis)
+const divisionsById = createKeyMap([...allies,...axis])
 
-module.exports = { divisionsAllies: allies, divisionsAxis: axis, divisionByBinaryKeyAllies, divisionByBinaryKeyAxis }
+module.exports = { divisionsAllies: allies, divisionsAxis: axis,  divisionsById}

@@ -1,109 +1,114 @@
-[{
-        "binaryKey": "1000111",
-        "name": "5th Panzer"
+[
+    {
+      "id": "71",
+      "name": "5. Panzer"
     },
     {
-        "binaryKey": "10000111",
-        "name": "20th Panzer"
+      "id": "135",
+      "name": "20. Panzer"
     },
     {
-        "binaryKey": "10001000",
-        "name": "28th Jager"
+      "id": "136",
+      "name": "28. Jäger"
     },
     {
-        "binaryKey": "10001001",
-        "name": "78th Sturm"
+      "id": "137",
+      "name": "78. Sturm"
     },
     {
-        "binaryKey": "10001010",
-        "name": "Gruppe Harteneck"
+      "id": "138",
+      "name": "Gruppe Harteneck"
     },
     {
-        "binaryKey": "10001011",
-        "name": "Koruck 559"
+      "id": "139",
+      "name": "Korück 559"
     },
     {
-        "binaryKey": "10001100",
-        "name": "1st Lovas"
+      "id": "140",
+      "name": "1. Lovas"
     },
     {
-        "binaryKey": "10001101",
-        "name": "12th Tartalekos"
+      "id": "141",
+      "name": "12. Tartalék"
     },
     {
-        "binaryKey": "10010101",
-        "name": "14th Infanterie"
+      "id": "149",
+      "name": "14. Infanterie"
     },
     {
-        "binaryKey": "10011010",
-        "name": "116th Panzer"
+      "id": "154",
+      "name": "116. Panzer"
     },
     {
-        "binaryKey": "10011011",
-        "name": "21st Panzer"
+      "id": "155",
+      "name": "21. Panzer"
     },
     {
-        "binaryKey": "10011100",
-        "name": "352nd Infantry"
+      "id": "156",
+      "name": "352. Infantrie"
     },
     {
-        "binaryKey": "10011101",
-        "name": "Pz Lehr"
+      "id": "157",
+      "name": "Panzer Lehr"
     },
     {
-        "binaryKey": "100000011",
-        "name": "1st Skijager"
+      "id": "259",
+      "name": "1. Skijäger"
     },
     {
-        "binaryKey": "100000110",
-        "name": "5 Panzer Wiking"
+      "id": "262",
+      "name": "5. SS-Panzer \"Wiking\""
     },
     {
-        "binaryKey": "100000111",
-        "name": "Fallschrim Panzer H G"
+      "id": "263",
+      "name": "Fallschirm-Panzer \"Hermann Göring\""
     },
     {
-        "binaryKey": "100001101",
-        "name": "25th Panzergrenadier"
+      "id": "269",
+      "name": "25. Panzergrenadier"
     },
     {
-        "binaryKey": "101011110",
-        "name": "Panssaridivisioona"
+      "id": "350",
+      "name": "Panssaridivisioona"
     },
     {
-        "binaryKey": "101100010",
-        "name": "Ryhma Raapppana"
+      "id": "354",
+      "name": "Ryhmä Raappana"
     },
     {
-        "binaryKey": "101100100",
-        "name": "122 Infantry"
+      "id": "356",
+      "name": "122. Infanterie-Division"
     },
     {
-        "binaryKey": "110101110",
-        "name": "16th Panzer"
+      "id": "430",
+      "name": "16. Panzer"
     },
     {
-        "binaryKey": "110101111",
-        "name": "97th Guards"
+      "id": "433",
+      "name": "1 Blindată \"Romania Mare\""
     },
     {
-        "binaryKey": "110110001",
-        "name": "1st Blindata"
+      "id": "434",
+      "name": "4 Munte"
     },
     {
-        "binaryKey": "110110010",
-        "name": "4th Munte"
+      "id": "623",
+      "name": "12. SS-Panzerdivision"
     },
     {
-        "binaryKey": "1001101111",
-        "name": "12th Panzer"
+      "id": "624",
+      "name": "17. SS-Panzergrenadier-Division"
     },
     {
-        "binaryKey": "1001110000",
-        "name": "17th SS"
+      "id": "626",
+      "name": "3. Fallschirmjäger"
     },
     {
-        "binaryKey": "1001110010",
-        "name": "3rd Fallschirmjäger"
+      "id": "637",
+      "name": "20. Panzergrenadier"
+    },
+    {
+      "id": "643",
+      "name": "1. Fallschirmjäger"
     }
-]
+  ]
