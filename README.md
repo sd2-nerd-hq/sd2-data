@@ -12,7 +12,7 @@ const maps = require("@puritanner/sd2-data/maps")
 const {byPlayerSize, sd2_league} = maps
 
 const divisions = require("@puritanner/sd2-data/divisions")
-const { divisionsAllies, divisionsAxis, divisionByBinaryKeyAllies, divisionByBinaryKeyAxis } = divisions
+const { divisionsAllies, divisionsAxis, divisionsById } = divisions
 
 const units = require("@puritanner/sd2-data/units")
 const unitById = require("@puritanner/sd2-data/unitById")

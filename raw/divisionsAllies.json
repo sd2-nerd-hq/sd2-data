@@ -1,109 +1,122 @@
-[{
-        "binaryKey": "1000010",
-        "name": "3rd Canadian Infantry"
+[
+    {
+      "id": "66",
+      "name": "3rd Canadian Infantry"
     },
     {
-        "binaryKey": "1000110",
-        "name": "3rd Us Armored"
+      "id": "70",
+      "name": "3rd US Armoured"
     },
     {
-        "binaryKey": "10000100",
-        "name": "2nd Guards"
+      "id": "132",
+      "name": "2-ya Gvard. Tankovy Korpus"
     },
     {
-        "binaryKey": "10000110",
-        "name": "29th Tank Corps"
+      "id": "134",
+      "name": "29-ya Tankovy Korpus"
     },
     {
-        "binaryKey": "10001110",
-        "name": "184th Guards"
+      "id": "142",
+      "name": "184-ya Strelkovy"
     },
     {
-        "binaryKey": "10001111",
-        "name": "26th Guards"
+      "id": "143",
+      "name": "26-ya Gvard. Strelkovy"
     },
     {
-        "binaryKey": "10010000",
-        "name": "3rd Guards Mech"
+      "id": "144",
+      "name": "3-ya Gvard. Mechanizi. Korpus"
     },
     {
-        "binaryKey": "10010001",
-        "name": "44th Guards"
+      "id": "145",
+      "name": "44-ya Gvard. Strelkovy"
     },
     {
-        "binaryKey": "10010011",
-        "name": "Group Bezugly"
+      "id": "147",
+      "name": "Podv. Gruppa Bezuglogo"
     },
     {
-        "binaryKey": "10010100",
-        "name": "Group Tyurin"
+      "id": "148",
+      "name": "Podv. Gruppa Tyurina"
     },
     {
-        "binaryKey": "10010110",
-        "name": "9th Guards"
+      "id": "150",
+      "name": "9-ya Gvard. Kavalerii"
     },
     {
-        "binaryKey": "10011000",
-        "name": "15th Infantry"
+      "id": "152",
+      "name": "15th Infantry"
     },
     {
-        "binaryKey": "10011001",
-        "name": "2e Blindee"
+      "id": "153",
+      "name": "2e Blindée"
     },
     {
-        "binaryKey": "11111111",
-        "name": "1st Polish Infantry"
+      "id": "255",
+      "name": "1 Piechoty \"Tadeusza Kościuszki\""
     },
     {
-        "binaryKey": "100000100",
-        "name": "3rd Guards Tank"
+      "id": "260",
+      "name": "3-ya Gvard. Tankovy Korpus"
     },
     {
-        "binaryKey": "100000101",
-        "name": "Armia Krajowa"
+      "id": "261",
+      "name": "Armia Krajowa"
     },
     {
-        "binaryKey": "100001000",
-        "name": "1st Pancerna"
+      "id": "264",
+      "name": "1 Dywizja Pancerna"
     },
     {
-        "binaryKey": "100001110",
-        "name": "84th Gvard. Strelkovy"
+      "id": "270",
+      "name": "84-ya Gvard. Strelkovy"
     },
     {
-        "binaryKey": "101011111",
-        "name": "Gruppa Vyborg"
+      "id": "351",
+      "name": "Podv. Gruppa Vyborg"
     },
     {
-        "binaryKey": "101100000",
-        "name": "126th Strelki"
+      "id": "352",
+      "name": "126-y L. Gornostrelkovy Korpus"
     },
     {
-        "binaryKey": "101100101",
-        "name": "358 Strelkovy"
+      "id": "357",
+      "name": "358-ya Strelkovy Div"
     },
     {
-        "binaryKey": "110110011",
-        "name": "5th Cavaleri"
+      "id": "431",
+      "name": "97-ya Gvard. Strelkovy"
     },
     {
-        "binaryKey": "110110100",
-        "name": "3rd VDV"
+      "id": "435",
+      "name": "5 Cavalerie Motorizată"
     },
     {
-        "binaryKey": "110110101",
-        "name": "7th Guards Mech"
+      "id": "436",
+      "name": "3-ya VDV"
     },
     {
-        "binaryKey": "110110110",
-        "name": "Morskaya"
+      "id": "437",
+      "name": "7-y Mechanizi. Korpus"
     },
     {
-        "binaryKey": "1001110011",
-        "name": "6th Airborne"
+      "id": "438",
+      "name": "Morskaya Gruppa Bakhtina"
     },
     {
-        "binaryKey": "1001110100",
-        "name": "2nd US"
+      "id": "627",
+      "name": "6th British Airborne Division"
+    },
+    {
+      "id": "628",
+      "name": "2nd Infantry Division \"Indianhead\""
+    },
+    {
+      "id": "629",
+      "name": "10-y Gv. Tankovy Korpus"
+    },
+    {
+      "id": "646",
+      "name": "2nd New-Zealand"
     }
-]
+  ]
