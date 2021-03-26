@@ -1,6 +1,6 @@
 {
     "name": "sd2-data",
-    "version": "0.1.4",
+    "version": "0.1.5",
     "description": "\"# sd2-data used for the tools and bots related to Steel Division 2\"",
     "main": "index.js",
     "scripts": {
