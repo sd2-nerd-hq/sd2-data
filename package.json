@@ -1,6 +1,6 @@
 {
     "name": "sd2-data",
-    "version": "0.2.1",
+    "version": "0.2.2",
     "description": "\"# sd2-data used for the tools and bots related to Steel Division 2\"",
     "main": "index.js",
     "scripts": {
@@ -15,6 +15,7 @@
     "keywords": [],
     "author": "sd-sodbot-hq",
     "license": "ISC",
+    "types": "index.d.ts",
     "bugs": {
         "url": "https://github.com/sd2-nerd-hq/sd2-data/issues"
     },
