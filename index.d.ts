@@ -1,4 +1,4 @@
-//export module `sd2-data`
+// export module `sd2-data`
 // Typedefs for raw data
 declare type DivisionStruct = {id:string, name:string};
 declare type UnitStruct = {descriptor:string, type:string, name:string};

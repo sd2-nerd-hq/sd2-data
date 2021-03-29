@@ -1,8 +1,8 @@
 
 const units = require('./units')
-const unitById = {}
+const unitsById = {}
 units.forEach(u => {
-  unitById[u.id] = u
+  unitsById[u.id] = u
 })
 
 module.exports = unitsById
