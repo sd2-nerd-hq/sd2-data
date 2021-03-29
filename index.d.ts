@@ -13,6 +13,7 @@ export declare class units {
 }
 
 export declare class maps {
+    allMapNames:string[];
     mapData:{
         sd2_league:string[]
         byPlayerSize:{

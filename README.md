@@ -24,6 +24,7 @@ const unitById = require("sd2-data/unitById")
 The unitdata is quite big (240kb) and will always grow.
 
 Typescript definitons should be available.
-
 ## Updates & new Versions
 I will update the repository once new data arrives. 
+
+
