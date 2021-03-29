@@ -1,17 +1,17 @@
 {
     "sd2League": [
         "Bobr",
-        "Brest, west",
+        "Brest West",
         "Haroshaje",
         "Krupa",
-        "Orsha, east",
-        "Orsha, north",
+        "Orsha East",
+        "Orsha North",
         "Shchedrin",
         "Sianno",
         "Siedlce",
         "Slutsk",
-        "Slutsk, east",
-        "Slutsk, west",
+        "Slutsk East",
+        "Slutsk West",
         "Thali Ihantala",
         "Tsel",
         "Zbuczyn"
@@ -19,6 +19,7 @@
     "byPlayerSize": {
         "2": [
             "Bobr",
+            "Brest West",
             "Haroshaje",
             "Krupa",
             "Lenina",
@@ -31,7 +32,9 @@
             "Slutsk West",
             "Slutsk",
             "Tsel",
-            "Siedlce"
+            "Thali Ihantala",
+            "Siedlce",
+            "Zbuczyn"
         ],
         "4": [
             "Autobahn Zur Holle",
