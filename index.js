@@ -1,8 +1,7 @@
+const unitsById = require('./unitsById')
+const units = require('./units')
+const maps = require('./maps')
+const divisions = require('./divisions')
+const misc = require('./misc')
 
-const unitById = require("./unitById")
-const units = require("./units")
-const maps = require("./maps")
-const divisions = require("./divisions")
-const misc = require("./misc")
-
-module.exports = {unitById, units, maps, divisions, misc}
+module.exports = { unitsById, units, maps, divisions, misc }

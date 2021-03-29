@@ -1,40 +1,46 @@
+//export module `sd2-data`
+// Typedefs for raw data
+declare type DivisionStruct = {id:string, name:string};
+declare type UnitStruct = {descriptor:string, type:string, name:string};
 
-//Typedefs for raw data
-export type DivisionStruct = {id:string,name:string};
-export type UnitStruct = {descriptor:string,type:string,name:string};
-
-//main exports
-export declare class unitById {
-    unitById:Map<string,UnitStruct>;
+// main exports
+declare interface UnitsByIdData {
+    unitById:Map<string, UnitStruct>;
 }
 
-export declare class units {
-    units:Map<string,UnitStruct>;
+declare interface UnitsData {
+    units:Map<string, UnitStruct>;
 }
 
-export declare class maps {
+declare interface MapsData {
     allMapNames:string[];
     mapData:{
-        sd2_league:string[]
+        sd2League:string[]
         byPlayerSize:{
-            "2":string[],
-            "4":string[],
-            "6":string[],
-            "8":string[]
+            '2':string[],
+            '4':string[],
+            '6':string[],
+            '8':string[]
         }
     };
 }
 
-export declare class divisions {
+declare interface DivisionsData {
     divisionAllies:[DivisionStruct];
     divisionAxis:[DivisionStruct];
     divisionById:[DivisionStruct];
 }
 
-export declare class misc {
-    incomeLevel:Map<string,string>;
-    mode:Map<string,string>;
-    victory:Map<string,string>;
-    scoreLimit:Map<string,string>;
-    incomeTypes:Map<number,string>;
+declare interface MiscData {
+    incomeLevel:Map<string, string>;
+    mode:Map<string, string>;
+    victory:Map<string, string>;
+    scoreLimit:Map<string, string>;
+    incomeTypes:Map<number, string>;
 }
+
+export const maps:MapsData
+export const misc:MiscData
+export const divisions:DivisionsData
+export const units:UnitsData
+export const unitsById:UnitsByIdData
