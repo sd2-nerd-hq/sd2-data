@@ -26,9 +26,9 @@ declare interface MapsData {
 }
 
 declare interface DivisionsData {
-    divisionAllies:[DivisionStruct];
-    divisionAxis:[DivisionStruct];
-    divisionById:[DivisionStruct];
+    divisionsAllies:[DivisionStruct];
+    divisionsAxis:[DivisionStruct];
+    divisionsById:[DivisionStruct];
 }
 
 declare interface MiscData {
