@@ -6,4 +6,9 @@ const units = [...Object.entries(unitData)]
     return data
   })
 
-module.exports = units
+const unitsById = {}
+units.forEach(u => {
+  unitsById[u.id] = u
+})
+
+module.exports = { unitsById, units }

@@ -4,12 +4,10 @@ declare type DivisionStruct = {id:number, name:string};
 declare type UnitStruct = {descriptor:string, type:string, name:string};
 
 // main exports
-declare interface UnitsByIdData {
-    unitById:Map<string, UnitStruct>;
-}
 
 declare interface UnitsData {
     units:Map<string, UnitStruct>;
+    unitById:{[index: number]:UnitStruct};
 }
 
 declare interface MapsData {
@@ -28,19 +26,18 @@ declare interface MapsData {
 declare interface DivisionsData {
     divisionsAllies:[DivisionStruct];
     divisionsAxis:[DivisionStruct];
-    divisionsById:[DivisionStruct];
+    divisionsById:{[index: number]:DivisionStruct};
 }
 
 declare interface MiscData {
-    incomeLevel:Map<number, string>;
-    mode:Map<number, string>;
-    victory:Map<number, string>;
-    scoreLimit:Map<number, string>;
-    incomeTypes:Map<number, string>;
+    incomeLevel:{[index: number]:string};
+    mode:{[index: number]:string};
+    victory:{[index: number]:string};
+    scoreLimit:{[index: number]:string};
+    incomeTypes:{[index: number]:string};
 }
 
 export const maps:MapsData
 export const misc:MiscData
 export const divisions:DivisionsData
 export const units:UnitsData
-export const unitsById:UnitsByIdData
