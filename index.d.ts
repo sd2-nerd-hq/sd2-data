@@ -7,7 +7,7 @@ declare type UnitStruct = {descriptor:string, type:string, name:string};
 
 declare interface UnitsData {
     units:Map<string, UnitStruct>;
-    unitById:{[index: number]:UnitStruct};
+    unitsById:{[index: number]:UnitStruct};
 }
 
 declare interface MapsData {
