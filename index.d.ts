@@ -32,10 +32,10 @@ declare interface DivisionsData {
 }
 
 declare interface MiscData {
-    incomeLevel:Map<string, string>;
-    mode:Map<string, string>;
-    victory:Map<string, string>;
-    scoreLimit:Map<string, string>;
+    incomeLevel:Map<number, string>;
+    mode:Map<number, string>;
+    victory:Map<number, string>;
+    scoreLimit:Map<number, string>;
     incomeTypes:Map<number, string>;
 }
 
