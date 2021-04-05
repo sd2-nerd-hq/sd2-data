@@ -1,35 +1,107 @@
 [
     {
-      "id": 66,
-      "name": "3rd Canadian Infantry"
-    },
+    "id": 264,
+    "name": "1 Pancerna"
+    },  
     {
-      "id": 70,
-      "name": "3rd US Armoured"
+    "id": 255,
+    "name": "1 Piechoty \"Tadeusza Kościuszki\""
     },
     {
       "id": 132,
       "name": "2-ya Gvard. Tankovy Korpus"
+    },    
+    {
+    "id": 153,
+    "name": "2e Blindée"
+    },  
+    {
+      "id": 628,
+      "name": "2nd Infantry Division \"Indianhead\""
     },
     {
-      "id": 134,
-      "name": "29-ya Tankovy Korpus"
-    },
-    {
-      "id": 142,
-      "name": "184-ya Strelkovy"
-    },
-    {
-      "id": 143,
-      "name": "26-ya Gvard. Strelkovy"
+      "id": 646,
+      "name": "2nd New-Zealand"
     },
     {
       "id": 144,
       "name": "3-ya Gvard. Mechanizi. Korpus"
     },
     {
+      "id": 260,
+      "name": "3-ya Gvard. Tankovy Korpus"
+    },
+    {
+      "id": 436,
+      "name": "3-ya VDV"
+    },
+    {
+      "id": 70,
+      "name": "3rd Armoured \"Spearhead\""
+    },
+    {
+      "id": 66,
+      "name": "3rd Canadian Infantry"
+    },
+    {
+      "id": 627,
+      "name": "6th Airborne"
+    },
+    {
+      "id": 437,
+      "name": "7-y Mechanizi. Korpus"
+    },
+    {
+      "id": 150,
+      "name": "9-ya Gvard. Kavalerii"
+    },
+    {
+      "id": 629,
+      "name": "10-y Gv. Tankovy Korpus"
+    },
+    {
+      "id": 152,
+      "name": "15th Infantry"
+    },
+    {
+      "id": 143,
+      "name": "26-ya Gvard. Strelkovy"
+    },
+    {
+      "id": 134,
+      "name": "29-ya Tankovy Korpus"
+    },
+    {
       "id": 145,
       "name": "44-ya Gvard. Strelkovy"
+    },
+    {
+      "id": 270,
+      "name": "84-ya Gvard. Strelkovy"
+    },
+    {
+      "id": 431,
+      "name": "97-ya Gvard. Strelkovy"
+    },
+    {
+      "id": 352,
+      "name": "126-y L. Gornostrelkovy Korpus"
+    },
+    {
+      "id": 142,
+      "name": "184-ya Strelkovy"
+    },
+    {
+      "id": 357,
+      "name": "358-ya Strelkovy"
+    },
+    {
+      "id": 261,
+      "name": "Armia Krajowa"
+    },
+    {
+      "id": 438,
+      "name": "Morskaya Gruppa Bakhtina"
     },
     {
       "id": 147,
@@ -40,83 +112,8 @@
       "name": "Podv. Gruppa Tyurina"
     },
     {
-      "id": 150,
-      "name": "9-ya Gvard. Kavalerii"
-    },
-    {
-      "id": 152,
-      "name": "15th Infantry"
-    },
-    {
-      "id": 153,
-      "name": "2e Blindée"
-    },
-    {
-      "id": 255,
-      "name": "1 Piechoty \"Tadeusza Kościuszki\""
-    },
-    {
-      "id": 260,
-      "name": "3-ya Gvard. Tankovy Korpus"
-    },
-    {
-      "id": 261,
-      "name": "Armia Krajowa"
-    },
-    {
-      "id": 264,
-      "name": "1 Dywizja Pancerna"
-    },
-    {
-      "id": 270,
-      "name": "84-ya Gvard. Strelkovy"
-    },
-    {
       "id": 351,
       "name": "Podv. Gruppa Vyborg"
-    },
-    {
-      "id": 352,
-      "name": "126-y L. Gornostrelkovy Korpus"
-    },
-    {
-      "id": 357,
-      "name": "358-ya Strelkovy Div"
-    },
-    {
-      "id": 431,
-      "name": "97-ya Gvard. Strelkovy"
-    },
-    {
-      "id": 435,
-      "name": "5 Cavalerie Motorizată"
-    },
-    {
-      "id": 436,
-      "name": "3-ya VDV"
-    },
-    {
-      "id": 437,
-      "name": "7-y Mechanizi. Korpus"
-    },
-    {
-      "id": 438,
-      "name": "Morskaya Gruppa Bakhtina"
-    },
-    {
-      "id": 627,
-      "name": "6th British Airborne Division"
-    },
-    {
-      "id": 628,
-      "name": "2nd Infantry Division \"Indianhead\""
-    },
-    {
-      "id": 629,
-      "name": "10-y Gv. Tankovy Korpus"
-    },
-    {
-      "id": 646,
-      "name": "2nd New-Zealand"
     }
+    
   ]
