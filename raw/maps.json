@@ -12,7 +12,7 @@
         "Slutsk",
         "Slutsk East",
         "Slutsk West",
-        "Thali Ihantala",
+        "Tali Ihantala",
         "Tsel",
         "Zbuczyn"
     ],
@@ -32,7 +32,7 @@
             "Slutsk West",
             "Slutsk",
             "Tsel",
-            "Thali Ihantala",
+            "Tali Ihantala",
             "Siedlce",
             "Zbuczyn"
         ],
@@ -40,34 +40,34 @@
             "Autobahn Zur Holle",
             "Beshankovichy",
             "Bobrujsk West",
-            "Lenina",
+            "Lenina 2",
             "Losnica",
             "Novka",
-            "Ostrowno",
-            "Shchedrin",
-            "Slutsk",
+            "Ostrowno 2",
+            "Shchedrin 2",
+            "Slutsk 2",
             "Veselovo",
             "Vitebsk East",
-            "Siedlce"
+            "Siedlce 2"
         ],
         "6": [
             "Krupki",
-            "Lenina",
+            "Lenina 3",
             "Lipen",
             "Lyakhavichy",
             "Mogilev",
             "Naratch Lake",
-            "Ostrowno",
+            "Ostrowno 3",
             "Pleshchenitsy South",
-            "Shchedrin",
-            "Slutsk",
+            "Shchedrin 3",
+            "Slutsk 3",
             "Smolyany"
         ],
         "8": [
-            "Lenina",
-            "Ostrowno",
-            "Shchedrin",
-            "Slutsk"
+            "Lenina 4",
+            "Ostrowno 4",
+            "Shchedrin 4",
+            "Slutsk 4"
         ]
     }
 }
