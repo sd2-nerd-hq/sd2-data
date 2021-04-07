@@ -20,7 +20,9 @@
         "2": [
             "Bobr",
             "Brest West",
+            "Gora Kalwaria",
             "Haroshaje",
+            "Ilomantsi",
             "Krupa",
             "Lenina",
             "Orsha East",
@@ -28,29 +30,34 @@
             "Ostrowno",
             "Shchedrin",
             "Sianno",
+            "Siedlce",
             "Slutsk East",
             "Slutsk West",
             "Slutsk",
-            "Tsel",
             "Tali Ihantala",
-            "Siedlce",
+            "Tsel",
             "Zbuczyn"
         ],
         "4": [
             "Autobahn Zur Holle",
             "Beshankovichy",
             "Bobrujsk West",
+            "Brest West 2",
+            "Ilomantsi 2",
             "Lenina 2",
             "Losnica",
             "Novka",
             "Ostrowno 2",
             "Shchedrin 2",
+            "Siedlce 2",
             "Slutsk 2",
+            "Tali Ihantala 2",
             "Veselovo",
             "Vitebsk East",
-            "Siedlce 2"
+            "Zbuczyn 2"
         ],
         "6": [
+            "Brest West 3",
             "Krupki",
             "Lenina 3",
             "Lipen",
@@ -61,9 +68,11 @@
             "Pleshchenitsy South",
             "Shchedrin 3",
             "Slutsk 3",
-            "Smolyany"
+            "Smolyany",
+            "Tali Ihantala 3"
         ],
         "8": [
+            "Gora Kalwaria 4",
             "Lenina 4",
             "Ostrowno 4",
             "Shchedrin 4",
