@@ -35,6 +35,7 @@ declare interface MiscData {
     victory:{[index: number]:string};
     scoreLimit:{[index: number]:string};
     incomeTypes:{[index: number]:string};
+    map:{[index: string]:string};
 }
 
 export const maps:MapsData
