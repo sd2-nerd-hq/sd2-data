@@ -1,6 +1,6 @@
 declare module 'sd2-data';
 // Typedefs for raw data
-declare type DivisionStruct = {id:number, name:string};
+declare type DivisionStruct = {id:number, name:string, alias:string};
 declare type UnitStruct = {descriptor:string, type:string, name:string};
 
 // main exports
