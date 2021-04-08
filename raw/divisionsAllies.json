@@ -1,119 +1,148 @@
 [
     {
     "id": 264,
-    "name": "1 Pancerna"
+    "name": "1 Pancerna",
+    "alias": "Pancerna"
     },  
     {
     "id": 255,
-    "name": "1 Piechoty \"Tadeusza Kościuszki\""
+    "name": "1 Piechoty \"Tadeusza Kościuszki\"",
+    "alias": "Piechoty"
     },
     {
       "id": 132,
-      "name": "2-ya Gvard. Tankovy Korpus"
+      "name": "2-ya Gvard. Tankovy Korpus",
+      "alias": "2GT"
     },    
     {
     "id": 153,
-    "name": "2e Blindée"
+    "name": "2e Blindée",
+    "alias": "Blindee"
     },  
     {
       "id": 628,
-      "name": "2nd Infantry Division \"Indianhead\""
+      "name": "2nd Infantry Division \"Indianhead\"",
+      "alias": "2ID"
     },
     {
       "id": 646,
-      "name": "2nd New-Zealand"
+      "name": "2nd New-Zealand",
+      "alias": "2NZ"
     },
     {
       "id": 144,
-      "name": "3-ya Gvard. Mechanizi. Korpus"
+      "name": "3-ya Gvard. Mechanizi. Korpus",
+      "alias": "3GM"
     },
     {
       "id": 260,
-      "name": "3-ya Gvard. Tankovy Korpus"
+      "name": "3-ya Gvard. Tankovy Korpus",
+      "alias": "3GT"
     },
     {
       "id": 436,
-      "name": "3-ya VDV"
+      "name": "3-ya VDV",
+      "alias": "VDV"
     },
     {
       "id": 70,
-      "name": "3rd Armoured \"Spearhead\""
+      "name": "3rd Armoured \"Spearhead\"",
+      "alias": "3US"
     },
     {
       "id": 66,
-      "name": "3rd Canadian Infantry"
+      "name": "3rd Canadian Infantry",
+      "alias": "3CAN"
     },
     {
       "id": 627,
-      "name": "6th Airborne"
+      "name": "6th Airborne",
+      "alias": "6AD"
     },
     {
       "id": 437,
-      "name": "7-y Mechanizi. Korpus"
+      "name": "7-y Mechanizi. Korpus",
+      "alias": "7Mech"
     },
     {
       "id": 150,
-      "name": "9-ya Gvard. Kavalerii"
+      "name": "9-ya Gvard. Kavalerii",
+      "alias": "9Kav"
     },
     {
       "id": 629,
-      "name": "10-y Gv. Tankovy Korpus"
+      "name": "10-y Gv. Tankovy Korpus",
+      "alias": "10GT"
     },
     {
       "id": 152,
-      "name": "15th Infantry"
+      "name": "15th Infantry",
+      "alias": "15ID"
     },
     {
       "id": 143,
-      "name": "26-ya Gvard. Strelkovy"
+      "name": "26-ya Gvard. Strelkovy",
+      "alias": "26Grd"
     },
     {
       "id": 134,
-      "name": "29-ya Tankovy Korpus"
+      "name": "29-ya Tankovy Korpus",
+      "alias": "29T"
     },
     {
       "id": 145,
-      "name": "44-ya Gvard. Strelkovy"
+      "name": "44-ya Gvard. Strelkovy",
+      "alias": "44Grd"
     },
     {
       "id": 270,
-      "name": "84-ya Gvard. Strelkovy"
+      "name": "84-ya Gvard. Strelkovy",
+      "alias": "84Grd"
     },
     {
       "id": 431,
-      "name": "97-ya Gvard. Strelkovy"
+      "name": "97-ya Gvard. Strelkovy",
+      "alias": "97Grd"
     },
     {
       "id": 352,
-      "name": "126-y L. Gornostrelkovy Korpus"
+      "name": "126-y L. Gornostrelkovy Korpus",
+      "alias": "126LGK"
     },
     {
       "id": 142,
-      "name": "184-ya Strelkovy"
+      "name": "184-ya Strelkovy",
+      "alias": "184"
     },
     {
       "id": 357,
-      "name": "358-ya Strelkovy"
+      "name": "358-ya Strelkovy",
+      "alias": "358"
     },
     {
       "id": 261,
-      "name": "Armia Krajowa"
+      "name": "Armia Krajowa",
+      "alias": "AK"
     },
     {
       "id": 438,
-      "name": "Morskaya Gruppa Bakhtina"
+      "name": "Morskaya Gruppa Bakhtina",
+      "alias": "MGB"
     },
     {
       "id": 147,
-      "name": "Podv. Gruppa Bezuglogo"
+      "name": "Podv. Gruppa Bezuglogo",
+      "alias": "PGB"
     },
     {
       "id": 148,
-      "name": "Podv. Gruppa Tyurina"
+      "name": "Podv. Gruppa Tyurina",
+      "alias": "PGT"
     },
     {
       "id": 351,
-      "name": "Podv. Gruppa Vyborg"
+      "name": "Podv. Gruppa Vyborg",
+      "alias": "PGV"
     }
     
   ]
