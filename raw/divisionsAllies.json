@@ -52,12 +52,17 @@
     {
       "id": 66,
       "name": "3rd Canadian Infantry",
-      "alias": "3CAN"
+      "alias": "3Can"
     },
     {
       "id": 627,
       "name": "6th Airborne",
       "alias": "6AD"
+    },
+    {
+      "id": 640,
+      "name": "7. Eesti Laskurdiviis",
+      "alias": "7Est"
     },
     {
       "id": 437,
@@ -80,6 +85,11 @@
       "alias": "15ID"
     },
     {
+      "id": 635,
+      "name": "19-y Tank Corpus",
+      "alias": "19Tank"
+    },
+    {
       "id": 143,
       "name": "26-ya Gvard. Strelkovy",
       "alias": "26Grd"
@@ -87,7 +97,7 @@
     {
       "id": 134,
       "name": "29-ya Tankovy Korpus",
-      "alias": "29T"
+      "alias": "29Tank"
     },
     {
       "id": 145,
@@ -112,12 +122,12 @@
     {
       "id": 142,
       "name": "184-ya Strelkovy",
-      "alias": "184"
+      "alias": "184ID"
     },
     {
       "id": 357,
       "name": "358-ya Strelkovy",
-      "alias": "358"
+      "alias": "358ID"
     },
     {
       "id": 261,
@@ -135,6 +145,11 @@
       "alias": "PGB"
     },
     {
+      "id": 641,
+      "name": "Podv. Gruppa Fedyunkin",
+      "alias": "PGF"
+    },
+    {
       "id": 148,
       "name": "Podv. Gruppa Tyurina",
       "alias": "PGT"
@@ -143,6 +158,11 @@
       "id": 351,
       "name": "Podv. Gruppa Vyborg",
       "alias": "PGV"
+    },
+    {
+      "id": 727,
+      "name": "Rezerv 43-y Armii",
+      "alias": "43RA"
     }
     
   ]
