@@ -7,7 +7,7 @@
     {
       "id": 643,
       "name": "1. Fallschirmjäger",
-      "alias": "1FJ"
+      "alias": "1FSJ"
     },
     {
     "id": 140,
@@ -22,7 +22,7 @@
     {
       "id": 626,
       "name": "3. Fallschirmjäger",
-      "alias": "3FJ"
+      "alias": "3FSJ"
     },
     {
       "id": 434,
@@ -43,6 +43,11 @@
       "id": 262,
       "name": "5. SS-Panzer \"Wiking\"",
       "alias": "5SSPz"
+    },
+    {
+      "id": 636,
+      "name": "11. SS-Freiwilligen Panzergrenadier “Nordland”",
+      "alias": "11SSPG"
     },
     {
       "id": 623,
@@ -95,6 +100,11 @@
       "alias": "28Jag"
     },
     {
+      "id": 726,
+      "name": "52. Sicherungs-Division z.b.V",
+      "alias": "52SD"
+    },
+    {
       "id": 137,
       "name": "78. Sturm",
       "alias": "78Sturm"
@@ -112,7 +122,7 @@
     {
       "id": 156,
       "name": "352. Infanterie",
-      "alias": "353ID"
+      "alias": "352ID"
     },
     {
       "id": 263,
@@ -135,9 +145,19 @@
       "alias": "FINPz"
     },
     {
+      "id": 638,
+      "name": "Panzergrenadier \"Grossdeutschland\"",
+      "alias": "PGG"
+    },
+    {
       "id": 157,
       "name": "Panzer Lehr",
       "alias": "PzLehr"
+    },
+    {
+      "id": 648,
+      "name": "Panzerverband Strachwitz",
+      "alias": "PzVS"
     },
     {
       "id": 354,
