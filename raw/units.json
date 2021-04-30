@@ -5749,6 +5749,26 @@
         "type": "Support",
         "name": "RONA MAXIM"
     },
+    "1365": {
+        "descriptor": "Descriptor_Production_Barbed_Wire",
+        "type": "Defense",
+        "name": "BARBED WIRE"
+    },
+    "1366": {
+        "descriptor": "Descriptor_Production_Bunker",
+        "type": "Defense",
+        "name": "BUNKER MG 42"
+    },
+    "1367": {
+        "descriptor": "Descriptor_Production_Gunner_Nest",
+        "type": "Defense",
+        "name": "GUN PIT"
+    },
+    "1371": {
+        "descriptor": "Descriptor_Production_Trench",
+        "type": "Defense",
+        "name": "TRENCHES"
+    },
     "1372": {
         "descriptor": "Descriptor_Unit_DCA_37mm_GER",
         "type": "DCA",
@@ -5873,6 +5893,16 @@
         "descriptor": "Descriptor_Unit_MercedesBenz_G5_HON",
         "type": "Support",
         "name": "M38 MB G-5"
+    },
+    "1398": {
+        "descriptor": "Descriptor_Production_Bunker_PaK_50mm",
+        "type": "Defense",
+        "name": "BUNKER PAK 50mm"
+    },
+    "1403": {
+        "descriptor": "Descriptor_Production_Bunker_HMG42",
+        "type": "Defense",
+        "name": "BUNKER MG 42"
     },
     "1404": {
         "descriptor": "Descriptor_Unit_StuG_III_G_Fu_GER",
@@ -6558,6 +6588,106 @@
         "descriptor": "Descriptor_Unit_Steyr_1500_FAO_HON",
         "type": "Art",
         "name": "43M STEYR FAO (100mm)"
+    },
+    "1561": {
+        "descriptor": "Descriptor_Production_Bunker_AT_37mm_GER",
+        "type": "Defense",
+        "name": "BUNKER PAK 37mm"
+    },
+    "1562": {
+        "descriptor": "Descriptor_Production_Bunker_AT_75mm_GER",
+        "type": "Defense",
+        "name": "BUNKER PAK 75mm"
+    },
+    "1563": {
+        "descriptor": "Descriptor_Production_Bunker_ATR_SOV",
+        "type": "Defense",
+        "name": "BUNKER PTRD-41"
+    },
+    "1564": {
+        "descriptor": "Descriptor_Production_Bunker_AT_45mm_SOV",
+        "type": "Defense",
+        "name": "BUNKER AT 45mm"
+    },
+    "1565": {
+        "descriptor": "Descriptor_Production_Bunker_AT_76mm_SOV",
+        "type": "Defense",
+        "name": "BUNKER AT 76,2mm"
+    },
+    "1566": {
+        "descriptor": "Descriptor_Production_Bunker_Maxim_SOV",
+        "type": "Defense",
+        "name": "BUNKER MAXIM"
+    },
+    "1567": {
+        "descriptor": "Descriptor_Production_Bunker_ATR_HON",
+        "type": "Defense",
+        "name": "BUNKER SOLOTHURN"
+    },
+    "1568": {
+        "descriptor": "Descriptor_Production_Bunker_AT_40mm_HON",
+        "type": "Defense",
+        "name": "BUNKER AT 40mm"
+    },
+    "1569": {
+        "descriptor": "Descriptor_Production_Bunker_AT_75mm_HON",
+        "type": "Defense",
+        "name": "BUNKER AT 75mm"
+    },
+    "1570": {
+        "descriptor": "Descriptor_Production_Bunker_MG_HON",
+        "type": "Defense",
+        "name": "BUNKER SCHWARLOZE"
+    },
+    "1571": {
+        "descriptor": "Descriptor_Production_Bunker_AT_57mm_FR",
+        "type": "Defense",
+        "name": "BUNKER AT 57mm"
+    },
+    "1572": {
+        "descriptor": "Descriptor_Production_Bunker_AT_57mm_US",
+        "type": "Defense",
+        "name": "BUNKER AT 57mm"
+    },
+    "1573": {
+        "descriptor": "Descriptor_Production_Bunker_AT_6pdr_CAN",
+        "type": "Defense",
+        "name": "BUNKER AT 6-pdr"
+    },
+    "1574": {
+        "descriptor": "Descriptor_Production_Bunker_AT_6pdr_UK",
+        "type": "Defense",
+        "name": "BUNKER AT 6-pdr"
+    },
+    "1575": {
+        "descriptor": "Descriptor_Production_Bunker_HMG_FR",
+        "type": "Defense",
+        "name": "BUNKER HMG .50"
+    },
+    "1576": {
+        "descriptor": "Descriptor_Production_Bunker_HMG_US",
+        "type": "Defense",
+        "name": "BUNKER HMG .50"
+    },
+    "1577": {
+        "descriptor": "Descriptor_Production_Bunker_MG_CAN",
+        "type": "Defense",
+        "name": "BUNKER VICKERS"
+    },
+    "1578": {
+        "descriptor": "Descriptor_Production_Bunker_MG_FR",
+        "type": "Defense",
+        "name": "BUNKER HMG .30"
+    },
+    "1579": {
+        "descriptor": "Descriptor_Production_Bunker_MG_UK",
+        "type": "Defense",
+        "name": "BUNKER VICKERS"
+    },
+    "1580": {
+        "descriptor": "Descriptor_Production_Bunker_MG_US",
+        "type": "Defense",
+        "name": "BUNKER HMG. 30"
     },
     "1582": {
         "descriptor": "Descriptor_Unit_Do_217J1_GER",
@@ -7784,6 +7914,46 @@
         "type": "Planes",
         "name": "Jak-7B"
     },
+    "1834": {
+        "descriptor": "Descriptor_Production_Bunker_ATR_AK",
+        "type": "Defense",
+        "name": "BUNKER PTRD-41"
+    },
+    "1835": {
+        "descriptor": "Descriptor_Production_Bunker_ATR_AWP",
+        "type": "Defense",
+        "name": "BUNKER PTRD-41"
+    },
+    "1836": {
+        "descriptor": "Descriptor_Production_Bunker_AT_37mm_AK",
+        "type": "Defense",
+        "name": "BUNKER PAK 37mm"
+    },
+    "1837": {
+        "descriptor": "Descriptor_Production_Bunker_AT_45mm_AWP",
+        "type": "Defense",
+        "name": "BUNKER AT 45mm"
+    },
+    "1838": {
+        "descriptor": "Descriptor_Production_Bunker_AT_75mm_AK",
+        "type": "Defense",
+        "name": "BUNKER PAK 75mm"
+    },
+    "1839": {
+        "descriptor": "Descriptor_Production_Bunker_HMG42_AK",
+        "type": "Defense",
+        "name": "BUNKER MG 42"
+    },
+    "1840": {
+        "descriptor": "Descriptor_Production_Bunker_Maxim_AWP",
+        "type": "Defense",
+        "name": "BUNKER MAXIM"
+    },
+    "1841": {
+        "descriptor": "Descriptor_Production_Bunker_PaK_50mm_AK",
+        "type": "Defense",
+        "name": "BUNKER PAK 50mm"
+    },
     "1842": {
         "descriptor": "Descriptor_Unit_203_H17_FIN",
         "type": "Art",
@@ -8928,6 +9098,26 @@
         "descriptor": "Descriptor_Unit_Yak_9B_x2_100_SOV",
         "type": "Planes",
         "name": "Yak-9B"
+    },
+    "2071": {
+        "descriptor": "Descriptor_Production_Bunker_ATR_FIN",
+        "type": "Defense",
+        "name": "BUNKER SOLOTHURN"
+    },
+    "2072": {
+        "descriptor": "Descriptor_Production_Bunker_AT_45mm_FIN",
+        "type": "Defense",
+        "name": "BUNKER AT 45mm"
+    },
+    "2073": {
+        "descriptor": "Descriptor_Production_Bunker_AT_75mm_FIN",
+        "type": "Defense",
+        "name": "BUNKER AT 75mm"
+    },
+    "2074": {
+        "descriptor": "Descriptor_Production_Bunker_Maxim_FIN",
+        "type": "Defense",
+        "name": "BUNKER MAXIM"
     },
     "2075": {
         "descriptor": "Descriptor_Unit_BA_64B_FAO_180_SOV",
@@ -10449,6 +10639,11 @@
         "type": "Planes",
         "name": "SPITFIRE Mk. Vc/trop"
     },
+    "2381": {
+        "descriptor": "Descriptor_Production_Bunker_MG_POL",
+        "type": "Defense",
+        "name": "BUNKER VICKERS"
+    },
     "2382": {
         "descriptor": "Descriptor_Unit_Ar_196_A3_GER",
         "type": "Planes",
@@ -11048,6 +11243,16 @@
         "descriptor": "Descriptor_Unit_Spitfire_Mk_Vc_trop_MITRALEXIS_Ace_GRE",
         "type": "Planes",
         "name": "SPITFIRE Mk. Vc/trop MITRALEXIS"
+    },
+    "2505": {
+        "descriptor": "Descriptor_Production_Bunker_AT_6pdr_NZ",
+        "type": "Defense",
+        "name": "BUNKER AT 6-pdr"
+    },
+    "2506": {
+        "descriptor": "Descriptor_Production_Bunker_MG_NZ",
+        "type": "Defense",
+        "name": "BUNKER VICKERS"
     },
     "2507": {
         "descriptor": "Descriptor_Unit_Spitfire_LF_Mk_IXc_SA",
@@ -11703,6 +11908,11 @@
         "descriptor": "Descriptor_Unit_Yak_3_ZAKHAROV_Ace_SOV",
         "type": "Planes",
         "name": "Yak-3 ZAKHAROV"
+    },
+    "2638": {
+        "descriptor": "Descriptor_Production_Bunker_AT_Pantherturm_GER",
+        "type": "Defense",
+        "name": "PANTHERTURM"
     },
     "2696": {
         "descriptor": "Descriptor_Unit_Canon_F22_AT_EstSOV",

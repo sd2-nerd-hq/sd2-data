@@ -8,6 +8,7 @@ const uniteDescriptorDir = modDir + `\\ModData\\base\\GameData\\Generated\\Gamep
 const translationsDir = modDir + `\\Utils\\LocalisationEntries\\Translations.csv`
 const translationsEntriesDir = modDir + `\\Utils\\LocalisationEntries\\Entries.csv`
 const deckSerializerDir = modDir + `\\ModData\\base\\GameData\\Generated\\Gameplay\\Decks\\DeckSerializer.ndf`
+const defenseDescriptorDir = modDir + `\\ModData\\base\\GameData\\Generated\\Gameplay\\Gfx\\DefenseProductionsDescriptors.ndf`
 //verify base has been unzipped
 if(!fs.existsSync(modDir + "\\ModData\\base")){
     console.log("Please Unzip base.zip @\\SteamLibrary\\steamapps\\common\\Steel Division 2\\Mods\\ModData\\base.zip")
@@ -17,7 +18,7 @@ if(!fs.existsSync(modDir + "\\ModData\\base")){
 units = {};
 defenses = {};
 const deckRegex = new RegExp("\\((Descriptor_Unit_\\w+), (\\d+)\\)");
-const deckRegex2 = new RegExp("\\((Descriptor_Production_\\W+), (\\d+)\\)");
+const deckRegex2 = new RegExp("\\((Descriptor_Production_\\w+), (\\d+)\\)");
 let deckData = fs.readFileSync(deckSerializerDir,{encoding:"utf8"})
     deckData = deckData.split("\n")
     for(let line of deckData){
@@ -106,6 +107,69 @@ readInterface.on("close",()=>{
         units[key] = content; 
     }
 
+    const readInterface2 = readline.createInterface({
+        input: fs.createReadStream(defenseDescriptorDir),
+        output: null,
+        console: false
+    });
 
-    access.write(JSON.stringify(units,null,4));
+    var arr2 =[];
+
+    readInterface2.on('line', function(line) {
+        if(line.match(/export (\S+) is \S+/)){
+            //  arr = [];
+            // arr.push(line.match(/export (\S+) is \S+/)[1]);
+            obj = new Object();
+            obj.descriptor = line.match(/export (\S+) is \S+/)[1];
+        }
+        // if(line.match(/\s+AcknowUnitType\s+=\s+~\/(\w+)/)){
+        //     arr.push(line.match(/\s+AcknowUnitType\s+=\s+~\/(\w+)/)[1]);
+        // }
+        // if(line.match(/\s+MaxDamages\s+=\s+(\d+)/)){
+        //     arr.push(line.match(/\s+MaxDamages\s+=\s+(\d+)/)[1]);
+        // }
+        if(line.match(/\s+Factory\s+=\sEDefaultFactories\/(\w+)/)){
+           obj.type = "Defense";
+            // arr.push(line.match(/\s+Factory\s+=\sEDefaultFactories\/(\w+)/)[1]);
+        }
+        if(line.match(/\s+Name\s+=\s+'(\w+)'/)){
+            let unitToken = line.match(/\s+Name\s+=\s+'(\w+)'/)[1];
+            let realName = find(unitToken).REFTEXT;
+            obj.name = realName;
+            // arr.push(realName);
+        }
+    
+        
+        // if(line.match(/Everything\/WeaponDescriptor([\w_]+)/)){
+            // arr.push(line.match(/Everything\/WeaponDescriptor([\w_]+)/)[1]);
+        // }
+        // if(line.match(/UnitConcealmentBonus\s=\s+(\d+)/)){
+        //     arr.push(line.match(/UnitConcealmentBonus\s=\s+(\d+(\.\d)?)/)[1]);
+        // }
+        // if(line.match(/OpticalStrength\s=\s+(\d+)/)){
+        //     arr.push(line.match(/OpticalStrength\s=\s+(\d+)/)[1]);
+        // }
+        if(line.match(/^\)$/)){
+            arr2.push(obj);
+            // for(a of arr){
+            //     access.write(a+'\t');
+            // }
+            // access.write('\n');
+        }
+    });
+    
+    readInterface2.on("close",()=>{
+        //console.log(defenses)
+        //console.log(arr2)
+        for( key of Object.keys(defenses)){
+            let desc = defenses[key];
+            //console.log(desc)
+            let content = arr2.find(v => v.descriptor == desc);
+            //console.log(content)
+            units[key] = content; 
+        }
+    
+        access.write(JSON.stringify(units,null,4));
+    })
+
 })
