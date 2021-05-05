@@ -199,7 +199,8 @@ const map = {
   _3x2_Shchedrin_LD_4v4_BKT: "Shchedrin 4",
   _4x2_Slutsk_LD_4v4: "Slutsk 4",
   _4x2_Slutsk_LD_4v4_CQC: "Slutsk 4",
-  _4x2_Slutsk_LD_4v4_BKT: "Slutsk 4"
+  _4x2_Slutsk_LD_4v4_BKT: "Slutsk 4",
+  _4x2_tannenberg_10vs10: "Tannenberg"
 }
 
 module.exports = { incomeLevel, incomeTypes, scoreLimit, victory, mode, map }
