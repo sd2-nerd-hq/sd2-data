@@ -9,6 +9,16 @@ const createKeyMap = divisionData => {
   return byId
 }
 
-const divisionsById = createKeyMap([...allies, ...axis])
+function keyMapAlias(divs){
+  const byAlias = {}
+  for(let div in divs){
+    for(let alias of divs[div].alias){
+      byAlias[alias] = divs[div]
+    }
+  }
+  return byAlias
+}
 
-module.exports = { divisionsAllies: allies, divisionsAxis: axis, divisionsById }
+const divisionsById = createKeyMap([...allies, ...axis])
+const divisionsByAlias = keyMapAlias([...allies, ...axis])
+module.exports = { divisionsAllies: allies, divisionsAxis: axis, divisionsById, divisionsByAlias:divisionsByAlias }

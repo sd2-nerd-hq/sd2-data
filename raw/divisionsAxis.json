@@ -2,166 +2,166 @@
     {
     "id": 433,
     "name": "1 Blindată \"Romania Mare\"",
-    "alias": "Blindata"
+    "alias": ["Blindata"]
     },  
     {
       "id": 643,
       "name": "1. Fallschirmjäger",
-      "alias": "1FSJ"
+      "alias": ["1FSJ"]
     },
     {
     "id": 140,
     "name": "1. Lovas",
-    "alias": "Lovas"
+    "alias": ["Lovas"]
     }, 
     {
       "id": 259,
       "name": "1. Skijäger",
-      "alias": "1SJ"
+      "alias": ["1SJ"]
     }, 
     {
       "id": 626,
       "name": "3. Fallschirmjäger",
-      "alias": "3FSJ"
+      "alias": ["3FSJ"]
     },
     {
       "id": 434,
       "name": "4 Munte",
-      "alias": "Munte"
+      "alias": ["Munte"]
     },
     {
       "id": 71,
       "name": "5. Panzer",
-      "alias": "5Pz"
+      "alias": ["5Pz"]
     },
     {
       "id": 435,
       "name": "5 Cavalerie Motorizată",
-      "alias": "5Cav"
+      "alias": ["5Cav"]
     },
     {
       "id": 262,
       "name": "5. SS-Panzer \"Wiking\"",
-      "alias": "5SSPz"
+      "alias": ["5SSPz","5ss"]
     },
     {
       "id": 636,
       "name": "11. SS-Freiwilligen Panzergrenadier “Nordland”",
-      "alias": "11SSPG"
+      "alias": ["11SSPG","11ss"]
     },
     {
       "id": 623,
       "name": "12. SS-Panzer \"Hitlerjugend\"",
-      "alias": "12SSPz"
+      "alias": ["12SSPz","12ss"]
     },
     {
       "id": 141,
       "name": "12. Tartalék",
-      "alias": "Tartalek"
+      "alias": ["Tartalek"]
     },
     {
       "id": 149,
       "name": "14. Infanterie",
-      "alias": "14ID"
+      "alias": ["14ID"]
     },
     {
       "id": 430,
       "name": "16. Panzer",
-      "alias": "16Pz"
+      "alias": ["16Pz"]
     },
     {
       "id": 624,
       "name": "17. SS-Panzergrenadier \"Götz von B.\"",
-      "alias": "17SSPG"
+      "alias": ["17SSPG","17SS"]
     },
     {
       "id": 135,
       "name": "20. Panzer",
-      "alias": "20Pz"
+      "alias": ["20Pz"]
     },
     {
       "id": 637,
       "name": "20. Panzergrenadier",
-      "alias": "20PG"
+      "alias": ["20PG"]
     },
     {
       "id": 155,
       "name": "21. Panzer",
-      "alias": "21Pz"
+      "alias": ["21Pz"]
     },
     {
       "id": 269,
       "name": "25. Panzergrenadier",
-      "alias": "25PG"
+      "alias": ["25PG"]
     },
     {
       "id": 136,
       "name": "28. Jäger",
-      "alias": "28Jag"
+      "alias": ["28Jag"]
     },
     {
       "id": 726,
       "name": "52. Sicherungs-Division z.b.V",
-      "alias": "52SD"
+      "alias": ["52SD"]
     },
     {
       "id": 137,
       "name": "78. Sturm",
-      "alias": "78Sturm"
+      "alias": ["78Sturm"]
     },
     {
       "id": 154,
       "name": "116. Panzer",
-      "alias": "116Pz"
+      "alias": ["116Pz"]
     },
     {
       "id": 356,
       "name": "122. Infanterie",
-      "alias": "122ID"
+      "alias": ["122ID"]
     },
     {
       "id": 156,
       "name": "352. Infanterie",
-      "alias": "352ID"
+      "alias": ["]352ID"]
     },
     {
       "id": 263,
       "name": "Fallschirm-Panzer \"Hermann Göring\"",
-      "alias": "FPzHG"
+      "alias": ["FPzHG"]
     },
     {
       "id": 138,
       "name": "Gruppe Harteneck",
-      "alias": "GH"
+      "alias": ["GH"]
     },
     {
       "id": 139,
       "name": "Korück 559",
-      "alias": "Koruck"
+      "alias": ["Koruck"]
     },
     {
       "id": 350,
       "name": "Panssaridivisioona",
-      "alias": "FINPz"
+      "alias": ["FINPz"]
     },
     {
       "id": 638,
       "name": "Panzergrenadier \"Grossdeutschland\"",
-      "alias": "PGG"
+      "alias": ["PGG","wiabu"]
     },
     {
       "id": 157,
       "name": "Panzer Lehr",
-      "alias": "PzLehr"
+      "alias": ["PzLehr"]
     },
     {
       "id": 419,
       "name": "Panzerverband Strachwitz",
-      "alias": "pig"
+      "alias": ["pig"]
     },
     {
       "id": 354,
       "name": "Ryhmä Raappana",
-      "alias": "Raappana"
+      "alias": ["Raappana"]
     }
   ]

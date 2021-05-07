@@ -2,167 +2,167 @@
     {
     "id": 264,
     "name": "1 Pancerna",
-    "alias": "Pancerna"
+    "alias": ["Pancerna"]
     },  
     {
     "id": 255,
     "name": "1 Piechoty \"Tadeusza Kościuszki\"",
-    "alias": "Piechoty"
+    "alias": ["Piechoty"]
     },
     {
       "id": 132,
       "name": "2-ya Gvard. Tankovy Korpus",
-      "alias": "2GT"
+      "alias": ["2gtc","2GT"]
     },    
     {
     "id": 153,
     "name": "2e Blindée",
-    "alias": "Blindee"
+    "alias": ["Blindee"]
     },  
     {
       "id": 628,
       "name": "2nd Infantry Division \"Indianhead\"",
-      "alias": "2ID"
+      "alias": ["2inf","2ID"]
     },
     {
       "id": 646,
       "name": "2nd New-Zealand",
-      "alias": "2NZ"
+      "alias": ["nz","kiwi","2NZ"]
     },
     {
       "id": 144,
       "name": "3-ya Gvard. Mechanizi. Korpus",
-      "alias": "3GM"
+      "alias": ["3gmc","3GM"]
     },
     {
       "id": 260,
       "name": "3-ya Gvard. Tankovy Korpus",
-      "alias": "3GT"
+      "alias": ["3gtc","3GT"]
     },
     {
       "id": 436,
       "name": "3-ya VDV",
-      "alias": "VDV"
+      "alias": ["VDV"]
     },
     {
       "id": 70,
       "name": "3rd Armoured \"Spearhead\"",
-      "alias": "3US"
+      "alias": ["3US"]
     },
     {
       "id": 66,
       "name": "3rd Canadian Infantry",
-      "alias": "3Can"
+      "alias": ["3Can","can","canada"]
     },
     {
       "id": 627,
       "name": "6th Airborne",
-      "alias": "6AD"
+      "alias": ["6AD"]
     },
     {
       "id": 640,
       "name": "7. Eesti Laskurdiviis",
-      "alias": "7Est"
+      "alias": ["7Est"]
     },
     {
       "id": 437,
       "name": "7-y Mechanizi. Korpus",
-      "alias": "7Mech"
+      "alias": ["7Mech"]
     },
     {
       "id": 150,
       "name": "9-ya Gvard. Kavalerii",
-      "alias": "9Kav"
+      "alias": ["9Cav","9Kav"]
     },
     {
       "id": 629,
       "name": "10-y Gv. Tankovy Korpus",
-      "alias": "10GT"
+      "alias":["10gtc","10GT"]
     },
     {
       "id": 152,
       "name": "15th Infantry",
-      "alias": "15ID"
+      "alias": ["15","15ID"]
     },
     {
       "id": 635,
-      "name": "19-y Tank Corpus",
-      "alias": "19Tank"
+      "name": "19-y Tank Korpus",
+      "alias": ["19gtc","19Tank"]
     },
     {
       "id": 143,
       "name": "26-ya Gvard. Strelkovy",
-      "alias": "26Grd"
+      "alias": ["26","26Grd"]
     },
     {
       "id": 134,
       "name": "29-ya Tankovy Korpus",
-      "alias": "29Tank"
+      "alias": ["29gtc","29Tank","29gt"]
     },
     {
       "id": 145,
       "name": "44-ya Gvard. Strelkovy",
-      "alias": "44Grd"
+      "alias": ["44","44Grd"]
     },
     {
       "id": 270,
       "name": "84-ya Gvard. Strelkovy",
-      "alias": "84Grd"
+      "alias": ["84","84Grd"]
     },
     {
       "id": 431,
       "name": "97-ya Gvard. Strelkovy",
-      "alias": "97Grd"
+      "alias": ["97","97Grd"]
     },
     {
       "id": 352,
       "name": "126-y L. Gornostrelkovy Korpus",
-      "alias": "126LGK"
+      "alias": ["126","126LGK"]
     },
     {
       "id": 142,
       "name": "184-ya Strelkovy",
-      "alias": "184ID"
+      "alias": ["184","184ID"]
     },
     {
       "id": 357,
       "name": "358-ya Strelkovy",
-      "alias": "358ID"
+      "alias": ["358","358ID"]
     },
     {
       "id": 261,
       "name": "Armia Krajowa",
-      "alias": "AK"
+      "alias": ["AK"]
     },
     {
       "id": 438,
       "name": "Morskaya Gruppa Bakhtina",
-      "alias": "MGB"
+      "alias": ["morskaya","MGB"]
     },
     {
       "id": 147,
       "name": "Podv. Gruppa Bezuglogo",
-      "alias": "PGB"
+      "alias": ["bezuglogo","PGB"]
     },
     {
       "id": 641,
       "name": "Podv. Gruppa Fedyunkin",
-      "alias": "PGF"
+      "alias": ["fedyunkin","PGF"]
     },
     {
       "id": 148,
       "name": "Podv. Gruppa Tyurina",
-      "alias": "PGT"
+      "alias": ["tyurina","PGT"]
     },
     {
       "id": 351,
       "name": "Podv. Gruppa Vyborg",
-      "alias": "PGV"
+      "alias": ["vyborg","PGV"]
     },
     {
       "id": 727,
       "name": "Rezerv 43-y Armii",
-      "alias": "43RA"
+      "alias": ["43","43RA"]
     }
     
   ]
