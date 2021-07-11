@@ -163,5 +163,11 @@
       "id": 354,
       "name": "Ryhmä Raappana",
       "alias": ["Raappana"]
+    },
+    {
+      "id": 728,
+      "name": "Verteidigungsbereich Toulon",
+      "alias": ["Toulon"]
     }
+
   ]
