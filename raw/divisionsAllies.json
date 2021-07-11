@@ -10,6 +10,11 @@
     "alias": ["Piechoty"]
     },
     {
+    "id": 631,
+    "name": "1e Division Française Libre",
+    "alias": ["DFL", "FreeFrench"]
+    },
+    {
       "id": 132,
       "name": "2-ya Gvard. Tankovy Korpus",
       "alias": ["2gtc","2GT"]
