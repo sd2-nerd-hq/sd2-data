@@ -145,6 +145,11 @@
       "alias": ["FINPz"]
     },
     {
+      "id": 111,
+      "name": "Panzerdivision Tatra",
+      "alias": ["Tatra"]
+    },
+    {
       "id": 638,
       "name": "Panzergrenadier \"Grossdeutschland\"",
       "alias": ["PGG","wiabu"]
