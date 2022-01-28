@@ -173,6 +173,28 @@
       "id": 642,
       "name": "Task Force Butler",
       "alias": ["TFB"]
+    },
+
+
+    {
+      "id": 999,
+      "name": "6th South African Armoured",
+      "alias": ["6SA"]
+    },
+    {
+      "id": 999,
+      "name": "8th (Indian) Infantry",
+      "alias": ["8II"]
+    },
+    {
+      "id": 999,
+      "name": "Task Force 45",
+      "alias": ["TF45"]
+    },
+    {
+      "id": 999,
+      "name": "Corpo Italiano di Liberazione",
+      "alias": ["CIDL"]
     }
     
   ]
