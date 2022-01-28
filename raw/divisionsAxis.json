@@ -173,6 +173,28 @@
       "id": 728,
       "name": "Verteidigungsbereich Toulon",
       "alias": ["Toulon"]
+    }, 
+
+
+    {
+      "id": 999,
+      "name": "26. Panzerdivision",
+      "alias": ["26Panzer"]
+    },
+    {
+      "id": 999,
+      "name": "5. Gebirgs-Division",
+      "alias": ["5Gebirgs"]
+    },
+    {
+      "id": 999,
+      "name": "4. Fallschirmjäger",
+      "alias": ["4FSJ"]
+    },
+    {
+      "id": 999,
+      "name": "4a Divisione Alpini \"Monterosa\"",
+      "alias": ["4aAlpini"]
     }
 
   ]
