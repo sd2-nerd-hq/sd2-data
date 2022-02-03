@@ -26,6 +26,8 @@ declare interface MapsData {
 declare interface DivisionsData {
     divisionsAllies:[DivisionStruct];
     divisionsAxis:[DivisionStruct];
+    divisionsNato:[DivisionStruct];
+    divisionsPact:[DivisionStruct];
     divisionsById:{[index: number]:DivisionStruct};
 }
 
