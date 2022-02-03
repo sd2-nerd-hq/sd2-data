@@ -65,6 +65,11 @@
       "alias": ["6AD"]
     },
     {
+      "id": 740,
+      "name": "6th South African Armoured",
+      "alias": ["6SA"]
+    },
+    {
       "id": 640,
       "name": "7. Eesti Laskurdiviis",
       "alias": ["7EST"]
@@ -73,6 +78,11 @@
       "id": 437,
       "name": "7-y Mechanizi. Korpus",
       "alias": ["7MECH"]
+    },
+    {
+      "id": 741,
+      "name": "8th (Indian) Infantry",
+      "alias": ["8II"]
     },
     {
       "id": 150,
@@ -140,6 +150,11 @@
       "alias": ["AK"]
     },
     {
+      "id": 738,
+      "name": "Corpo Italiano di Liberazione",
+      "alias": ["CIDL"]
+    },
+    {
       "id": 438,
       "name": "Morskaya Gruppa Bakhtina",
       "alias": ["MGB"]
@@ -168,6 +183,11 @@
       "id": 727,
       "name": "Rezerv 43-y Armii",
       "alias": ["43RA"]
+    },
+    {
+      "id": 742,
+      "name": "Task Force 45",
+      "alias": ["TF45"]
     },
     {
       "id": 642,
