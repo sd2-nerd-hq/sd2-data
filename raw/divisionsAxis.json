@@ -25,9 +25,19 @@
       "alias": ["3FSJ"]
     },
     {
+      "id": 736,
+      "name": "4. Fallschirmjäger",
+      "alias": ["4FSJ"]
+    },
+    {
       "id": 434,
       "name": "4 Munte",
       "alias": ["Munte"]
+    },
+    {
+      "id": 739,
+      "name": "4a Divisione Alpini \"Monterosa\"",
+      "alias": ["4aAlpini"]
     },
     {
       "id": 71,
@@ -38,6 +48,11 @@
       "id": 435,
       "name": "5 Cavalerie Motorizată",
       "alias": ["5Cav"]
+    },
+    {
+      "id": 737,
+      "name": "5. Gebirgs-Division",
+      "alias": ["5Gebirgs"]
     },
     {
       "id": 262,
@@ -93,6 +108,11 @@
       "id": 269,
       "name": "25. Panzergrenadier",
       "alias": ["25PG"]
+    },
+    {
+      "id": 735,
+      "name": "26. Panzerdivision",
+      "alias": ["26Panzer"]
     },
     {
       "id": 136,
@@ -173,28 +193,6 @@
       "id": 728,
       "name": "Verteidigungsbereich Toulon",
       "alias": ["Toulon"]
-    }, 
-
-
-    {
-      "id": 999,
-      "name": "26. Panzerdivision",
-      "alias": ["26Panzer"]
-    },
-    {
-      "id": 999,
-      "name": "5. Gebirgs-Division",
-      "alias": ["5Gebirgs"]
-    },
-    {
-      "id": 999,
-      "name": "4. Fallschirmjäger",
-      "alias": ["4FSJ"]
-    },
-    {
-      "id": 999,
-      "name": "4a Divisione Alpini \"Monterosa\"",
-      "alias": ["4aAlpini"]
     }
 
   ]
