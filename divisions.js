@@ -24,4 +24,4 @@ function keyMapAlias(divs){
 
 const divisionsById = createKeyMap([...allies, ...axis, ...nato, ...pact])
 const divisionsByAlias = keyMapAlias([...allies, ...axis, ...nato, ...pact])
-module.exports = { divisionsAllies: allies, divisionsAxis: axis, divisionNato: nato, divisionPact: pact, divisionsById, divisionsByAlias:divisionsByAlias }
+module.exports = { divisionsAllies: allies, divisionsAxis: axis, divisionsNato: nato, divisionsPact: pact, divisionsById, divisionsByAlias:divisionsByAlias }
