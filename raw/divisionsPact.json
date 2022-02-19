@@ -2,6 +2,13 @@
   {
     "id": 11,
     "name": "79-ya Gv. Tank",
-    "alias": ["79GT"]
+    "alias": ["79GTD"]
+  },
+  {
+    "id": 17,
+    "name": "39-ya Gv. Strelk. Div",
+    "alias": ["39GVMSD"]
   }
+
+
 ]
