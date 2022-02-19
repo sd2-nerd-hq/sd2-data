@@ -3,5 +3,12 @@
     "id": 13,
     "name": "3rd Armored Division",
     "alias": ["3Armor"]
+  },
+  {
+    "id": 14,
+    "name": "8th Infantry",
+    "alias": ["8Inf"]
   }
+
+
 ]
