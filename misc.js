@@ -203,7 +203,8 @@ const map = {
   _4x2_Slutsk_LD_4v4: "Slutsk 4",
   _4x2_Slutsk_LD_4v4_CQC: "Slutsk 4",
   _4x2_Slutsk_LD_4v4_BKT: "Slutsk 4",
-  _4x2_tannenberg_10vs10: "Tannenberg",
+  _4x2_Tannenberg_LD_1v1: "Tannenberg",
+  _4x2_tannenberg_10vs10: "Tannenberg 10",
   _2x3_DeuxCouloirs: "Two Way",
   _2x3_Death_Row: "Death Row"
 }
