@@ -29,6 +29,7 @@ declare interface DivisionsData {
     divisionsNato:[DivisionStruct];
     divisionsPact:[DivisionStruct];
     divisionsById:{[index: number]:DivisionStruct};
+    divisionsByAlias:{[index: number]:DivisionStruct};
 }
 
 declare interface MiscData {
