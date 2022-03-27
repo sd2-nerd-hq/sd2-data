@@ -2,13 +2,16 @@
   {
     "id": 13,
     "name": "3rd Armored Division",
-    "alias": ["3Armor"]
+    "alias": ["3Arm"]
   },
+  {
+    "id": 10,
+    "name": "5. Panzer",
+    "alias": ["5Pz"]
+  }, 
   {
     "id": 14,
     "name": "8th Infantry",
     "alias": ["8Inf"]
   }
-
-
 ]

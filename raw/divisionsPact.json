@@ -1,5 +1,10 @@
 [
   {
+    "id": 9,
+    "name": "7. Panzer",
+    "alias": ["7Pz"]
+  },
+  {
     "id": 11,
     "name": "79-ya Gv. Tank",
     "alias": ["79GTD"]
