@@ -193,6 +193,11 @@
       "id": 642,
       "name": "Task Force Butler",
       "alias": ["TFB"]
+    },
+    {
+      "id": 9999,
+      "name": "Narodnooslobodilačka vojska",
+      "alias": ["NOV"]
     }
-    
+
   ]

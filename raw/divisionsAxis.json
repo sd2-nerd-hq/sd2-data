@@ -193,6 +193,10 @@
       "id": 728,
       "name": "Verteidigungsbereich Toulon",
       "alias": ["Toulon"]
+    },
+    {
+      "id": 9991,
+      "name": "Unternehmen Rösselsprung",
+      "alias": ["UR"]
     }
-
   ]

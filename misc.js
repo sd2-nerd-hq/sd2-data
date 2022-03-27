@@ -205,8 +205,16 @@ const map = {
   _4x2_Slutsk_LD_4v4_BKT: "Slutsk 4",
   _4x2_Tannenberg_LD_1v1: "Tannenberg",
   _4x2_tannenberg_10vs10: "Tannenberg 10",
+
   _2x3_DeuxCouloirs: "Two Way",
-  _2x3_Death_Row: "Death Row"
+  _2x3_Death_Row: "Death Row",
+  _2x3_Death_Row_1vs1: "Death Row 1v1",
+  _2x3_Two_lakes: "Two Lakes",
+  _3x3_Archipel: "Danger Hills",
+  _3x3_IFleuve: "Mount River",
+  _4x2_Chemical: "Chemical",
+  _4x3_geisa: "Geisa"
+
 }
 
 module.exports = { incomeLevel, incomeTypes, scoreLimit, victory, mode, map }
