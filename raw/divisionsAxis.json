@@ -198,5 +198,20 @@
       "id": 9991,
       "name": "Unternehmen Rösselsprung",
       "alias": ["UR"]
+    },
+    {
+      "id": 9992,
+      "name": "2. Páncéloshadosztály",
+      "alias": ["2Pan"]
+    },
+    {
+      "id": 9993,
+      "name": "25. Hadosztály",
+      "alias": ["25ID"]
+    },
+    {
+      "id": 9994,
+      "name": "Unternehmen Rösselsprung",
+      "alias": ["UR"]
     }
   ]

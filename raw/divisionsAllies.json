@@ -198,6 +198,20 @@
       "id": 9999,
       "name": "Narodnooslobodilačka vojska",
       "alias": ["NOV"]
+    },
+    {
+      "id": 9998,
+      "name": "Divizia 9 Infanterie",
+      "alias": ["9ID"]
+    },
+    {
+      "id": 9997,
+      "name": "Narodnooslobodilačka vojska",
+      "alias": ["NOV"]
+    },
+    {
+      "id": 9996,
+      "name": "Narodnooslobodilačka vojska",
+      "alias": ["NOV"]
     }
-
   ]
