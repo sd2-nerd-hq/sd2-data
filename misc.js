@@ -210,9 +210,12 @@ const map = {
   _2x3_Death_Row: "Death Row",
   _2x3_Death_Row_1vs1: "Death Row 1v1",
   _2x3_Two_lakes: "Two Lakes",
+  _2x3_DeuxTiers: "Black Forest",
   _3x3_Archipel: "Danger Hills",
   _3x3_IFleuve: "Mount River",
   _4x2_Chemical: "Chemical",
+  _3x3_IronWaters: "Iron Waters",
+  _5x2_boucle: "Loop",
   _4x3_geisa: "Geisa"
 
 }
