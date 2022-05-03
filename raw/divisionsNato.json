@@ -13,5 +13,11 @@
     "id": 14,
     "name": "8th Infantry",
     "alias": ["8Inf"]
+  },
+  {
+    "id": 20,
+    "name": "2. Panzergrenadier",
+    "alias": ["2PG"]
   }
+
 ]
