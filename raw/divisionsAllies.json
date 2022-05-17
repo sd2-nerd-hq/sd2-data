@@ -206,12 +206,12 @@
     },
     {
       "id": 9997,
-      "name": "Narodnooslobodilačka vojska",
-      "alias": ["NOV"]
+      "name": "Divizia 8 Cavalerie Motorizata",
+      "alias": ["8CAV"]
     },
     {
       "id": 9996,
-      "name": "Narodnooslobodilačka vojska",
-      "alias": ["NOV"]
+      "name": "Corpul 6 Teritorial",
+      "alias": ["6CORP"]
     }
   ]
