@@ -160,6 +160,11 @@
       "alias": ["MGB"]
     },
     {
+      "id": 744,
+      "name": "Narodnooslobodilačka vojska",
+      "alias": ["NOV"]
+    },
+    {
       "id": 147,
       "name": "Podv. Gruppa Bezuglogo",
       "alias": ["Bezuglogo"]
@@ -194,11 +199,7 @@
       "name": "Task Force Butler",
       "alias": ["TFB"]
     },
-    {
-      "id": 9999,
-      "name": "Narodnooslobodilačka vojska",
-      "alias": ["NOV"]
-    },
+    
     {
       "id": 9998,
       "name": "Divizia 9 Infanterie",
