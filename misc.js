@@ -206,19 +206,28 @@ const map = {
   _4x2_Tannenberg_LD_1v1: "Tannenberg",
   _4x2_tannenberg_10vs10: "Tannenberg 10",
 
-  _2x3_DeuxCouloirs: "Two Way",
-  _2x3_Death_Row: "Death Row",
-  _2x3_Death_Row_1vs1: "Death Row 1v1",
+  _3x3_IFleuve_1vs1: "Mount River",
+  _4x3_geisa_1vs1: "Geisa",
+  _2x3_Death_Row_1vs1: "Death Row",
   _2x3_Two_lakes: "Two Lakes",
-  _2x3_DeuxTiers: "Black Forest",
   _2x3_zigzag:"Vertigo",
-  _3x3_Archipel: "Danger Hills",
-  _3x3_IFleuve: "Mount River",
-  _3x3_TripleAttaque: "Triple Strike",
-  _4x2_Chemical: "Chemical",
-  _3x3_IronWaters: "Iron Waters",
-  _5x2_boucle: "Loop",
-  _4x3_geisa: "Geisa"
+  _2x3_Death_Row: "Death Row 2v2",
+  _2x3_DeuxCouloirs: "Two Ways",
+  _2x3_DeuxTiers: "Black Forest",
+  _4x2_Chemical_2vs2: "Chemical",
+  _3x3_IFleuve_2vs2: "Mount River 2v2",
+
+  _2x3_DeuxCouloirs_3vs3: "Two Ways 3v3",
+  _3x3_Archipel: "Danger Hills 3v3",
+  _3x3_IFleuve: "Mount River 3v3",
+  _3x3_Volcano: "Volcano 3v3",
+  _3x3_TripleAttaque: "Triple Strike 3v3",
+  _3x3_Cyrus: "Cyrus 3v3",
+
+  _4x2_Chemical: "Chemical 4v4",
+  _3x3_IronWaters: "Iron Waters 10",
+  _5x2_boucle: "Loop 10",
+  _4x3_geisa: "Geisa 10"
 
 }
 

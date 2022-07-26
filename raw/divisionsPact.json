@@ -1,13 +1,13 @@
 [
   {
+    "id": 19,
+    "name": "4. Motorisierte Schützendivision ",
+    "alias": ["4MSD"]
+  }, 
+  {
     "id": 9,
     "name": "7. Panzer",
     "alias": ["7Pz"]
-  },
-  {
-    "id": 11,
-    "name": "79-ya Gv. Tank",
-    "alias": ["79GTD"]
   },
   {
     "id": 23,
@@ -20,9 +20,14 @@
     "alias": ["39GVMSD"]
   },
   {
-    "id": 19,
-    "name": "4. Motorisierte Schützendivision ",
-    "alias": ["4MSD"]
+    "id": 11,
+    "name": "79-ya Gv. Tank",
+    "alias": ["79GTD"]
+  },
+  {
+    "id": 27,
+    "name": "K.d.A. Bezirk Erfurt",
+    "alias": ["ABE"]
   }
 
 ]
