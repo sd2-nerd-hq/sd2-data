@@ -23,6 +23,11 @@
     "id": 24,
     "name": "82nd Airborne Division",
     "alias": ["82AB"]
+  },
+  {
+    "id": 28,
+    "name": "Territorialkommando Süd",
+    "alias": ["TerrKdo"]
   }
 
 ]
