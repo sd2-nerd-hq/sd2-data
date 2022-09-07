@@ -215,6 +215,7 @@ const map = {
   _2x3_DeuxCouloirs: "Two Ways",
   _2x3_DeuxTiers: "Black Forest",
   _4x2_Chemical_2vs2: "Chemical",
+  _2x3_Serpent: "Ripple",
   _3x3_IFleuve_2vs2: "Mount River 2v2",
 
   _2x3_DeuxCouloirs_3vs3: "Two Ways 3v3",
@@ -222,11 +223,13 @@ const map = {
   _3x3_IFleuve: "Mount River 3v3",
   _3x3_Volcano: "Volcano 3v3",
   _3x3_TripleAttaque: "Triple Strike 3v3",
+  _3x3_Rift: "Rift 3v3",
   _3x3_Cyrus: "Cyrus 3v3",
 
   _4x2_Chemical: "Chemical 4v4",
   _3x3_IronWaters: "Iron Waters 10",
   _5x2_boucle: "Loop 10",
+  _5x2_crown: "Crown 10",
   _4x3_geisa: "Geisa 10"
 
 }
