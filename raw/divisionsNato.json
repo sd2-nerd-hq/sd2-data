@@ -1,5 +1,10 @@
 [
   {
+    "id": 29,
+    "name": "1. Armoured Division",
+    "alias": ["1AD"]
+  }, 
+  {
     "id": 20,
     "name": "2. Panzergrenadier",
     "alias": ["2PG"]
@@ -10,6 +15,11 @@
     "alias": ["3Arm"]
   },
   {
+    "id": 26,
+    "name": "5e Division Blindée",
+    "alias": ["5DB"]
+  }, 
+  {
     "id": 10,
     "name": "5. Panzer",
     "alias": ["5Pz"]
@@ -18,11 +28,6 @@
     "id": 14,
     "name": "8th Infantry",
     "alias": ["8Inf"]
-  },
-  {
-    "id": 24,
-    "name": "82nd Airborne Division",
-    "alias": ["82AB"]
   },
   {
     "id": 28,
