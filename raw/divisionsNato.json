@@ -30,6 +30,11 @@
     "alias": ["8Inf"]
   },
   {
+    "id": 24,
+    "name": "82nd Airborne",
+    "alias": ["82AB"]
+  },
+  {
     "id": 28,
     "name": "Territorialkommando Süd",
     "alias": ["TerrKdo"]
