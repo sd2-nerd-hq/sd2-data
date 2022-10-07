@@ -5,9 +5,19 @@
     "alias": ["1AD"]
   }, 
   {
+    "id": 25,
+    "name": "11e Division Parachutiste",
+    "alias": ["11e"]
+  }, 
+  {
     "id": 20,
     "name": "2. Panzergrenadier",
     "alias": ["2PG"]
+  }, 
+  {
+    "id": 30,
+    "name": "2nd Infantry Division",
+    "alias": ["2ID"]
   }, 
   {
     "id": 13,
