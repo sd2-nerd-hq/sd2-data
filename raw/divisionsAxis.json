@@ -20,6 +20,11 @@
       "alias": ["1SJ"]
     }, 
     {
+      "id": 432,
+      "name": "2. Páncéloshadosztály",
+      "alias": ["2Pan"]
+    },
+    {
       "id": 626,
       "name": "3. Fallschirmjäger",
       "alias": ["3FSJ"]
@@ -103,6 +108,11 @@
       "id": 155,
       "name": "21. Panzer",
       "alias": ["21Pz"]
+    },
+    {
+      "id": 730,
+      "name": "25. Hadosztály",
+      "alias": ["25ID"]
     },
     {
       "id": 269,
@@ -190,6 +200,11 @@
       "alias": ["Raappana"]
     },
     {
+      "id": 731,
+      "name": "Sperrverband von Kessel",
+      "alias": ["SVK"]
+    },
+    {
       "id": 743,
       "name": "Unternehmen Rösselsprung",
       "alias": ["UR"]
@@ -198,20 +213,5 @@
       "id": 728,
       "name": "Verteidigungsbereich Toulon",
       "alias": ["Toulon"]
-    },
-    {
-      "id": 9992,
-      "name": "2. Páncéloshadosztály",
-      "alias": ["2Pan"]
-    },
-    {
-      "id": 9993,
-      "name": "25. Hadosztály",
-      "alias": ["25ID"]
-    },
-    {
-      "id": 9994,
-      "name": "Sperrverband von Kessel",
-      "alias": ["SVK"]
     }
   ]
