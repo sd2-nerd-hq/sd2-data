@@ -155,6 +155,21 @@
       "alias": ["CIDL"]
     },
     {
+      "id": 775,
+      "name": "Corpul 6 Teritorial",
+      "alias": ["6CORP"]
+    },
+    {
+      "id": 733,
+      "name": "Divizia 8 Cavalerie Motorizata",
+      "alias": ["8CAV"]
+    },
+    {
+      "id": 734,
+      "name": "Divizia 9 Infanterie",
+      "alias": ["9ID"]
+    },
+    {
       "id": 438,
       "name": "Morskaya Gruppa Bakhtina",
       "alias": ["MGB"]
@@ -198,21 +213,5 @@
       "id": 642,
       "name": "Task Force Butler",
       "alias": ["TFB"]
-    },
-    
-    {
-      "id": 9998,
-      "name": "Divizia 9 Infanterie",
-      "alias": ["9ID"]
-    },
-    {
-      "id": 9997,
-      "name": "Divizia 8 Cavalerie Motorizata",
-      "alias": ["8CAV"]
-    },
-    {
-      "id": 9996,
-      "name": "Corpul 6 Teritorial",
-      "alias": ["6CORP"]
     }
   ]
