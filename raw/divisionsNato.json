@@ -45,6 +45,11 @@
     "alias": ["82AB"]
   },
   {
+    "id": 15,
+    "name": "Berlin Command",
+    "alias": ["BER"]
+  },
+  {
     "id": 28,
     "name": "Territorialkommando Süd",
     "alias": ["TerrKdo"]
