@@ -28,6 +28,11 @@
     "id": 27,
     "name": "K.d.A. Bezirk Erfurt",
     "alias": ["ABE"]
+  },
+  {
+    "id": 33,
+    "name": "Unternehmen Zentrum",
+    "alias": ["ZEN"]
   }
 
 ]
