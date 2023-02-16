@@ -242,9 +242,12 @@ const map = {
   _3x3_Cyrus_3vs3_DEST: "Cyrus 3v3",
   _3x3_Rocks: "Rocks 3v3",
   _3x3_Rocks_3vs3_DEST: "Rocks 3v3",
+  _3x3_TwinCities: "Twin Cities 3v3",
+  _3x3_TwinCities_3vs3_DEST: "Twin Cities 3v3",
 
   _4x2_Chemical: "Chemical 4v4",
   _4x2_Chemical_4vs4_DEST: "Chemical 4v4",
+  _4x2_DarkStream: "Dark Stream 4v4",
   _3x3_IronWaters: "Iron Waters 10",
   _3x3_IronWaters_10vs10_DEST: "Iron Waters 10",
   _5x2_boucle: "Loop 10",
