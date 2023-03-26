@@ -64,11 +64,12 @@
       "name": "6th Airborne",
       "alias": ["6AD"]
     },
-    {
-      "id": 740,
-      "name": "6th South African Armoured",
-      "alias": ["6SA"]
-    },
+  {
+    "id": 740,
+    "name": "6th South African Armoured",
+    "alias": ["6SA"]
+  },
+
     {
       "id": 640,
       "name": "7. Eesti Laskurdiviis",
@@ -213,5 +214,10 @@
       "id": 642,
       "name": "Task Force Butler",
       "alias": ["TFB"]
-    }
+    },
+  {
+    "id": 630,
+    "name": "CIABG",
+    "alias": ["CIABG"]
+  }
   ]
