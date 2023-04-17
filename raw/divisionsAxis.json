@@ -160,6 +160,11 @@
       "alias": ["FPzHG"]
     },
     {
+      "id": 774,
+      "name": "Festung Dünnkirchen",
+      "alias": ["DUNK"]
+    },
+    {
       "id": 138,
       "name": "Gruppe Harteneck",
       "alias": ["GH"]
@@ -213,10 +218,5 @@
       "id": 728,
       "name": "Verteidigungsbereich Toulon",
       "alias": ["Toulon"]
-    },
-  {
-    "id": 774,
-    "name": "Festung Dünnkirchen",
-    "alias": ["DUNK"]
-  }
+    }
 ]

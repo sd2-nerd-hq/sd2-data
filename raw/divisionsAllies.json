@@ -151,6 +151,11 @@
       "alias": ["AK"]
     },
     {
+      "id": 630,
+      "name": "CIABG",
+      "alias": ["CIABG"]
+    },
+    {
       "id": 738,
       "name": "Corpo Italiano di Liberazione",
       "alias": ["CIDL"]
@@ -214,10 +219,5 @@
       "id": 642,
       "name": "Task Force Butler",
       "alias": ["TFB"]
-    },
-  {
-    "id": 630,
-    "name": "CIABG",
-    "alias": ["CIABG"]
-  }
+    }
   ]
