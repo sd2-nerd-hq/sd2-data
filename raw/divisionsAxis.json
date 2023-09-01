@@ -15,13 +15,18 @@
     "alias": ["Lovas"]
     },
     {
+      "id": 645,
+      "name": "1. Páncélos Hadosztály",
+      "alias": ["1PAN"]
+    },
+    {
       "id": 259,
       "name": "1. Skijäger",
       "alias": ["1SJ"]
     },
     {
       "id": 432,
-      "name": "2. Páncéloshadosztály",
+      "name": "2. Páncélos Hadosztály",
       "alias": ["2Pan"]
     },
     {
@@ -90,6 +95,11 @@
       "alias": ["16Pz"]
     },
     {
+      "id": 778,
+      "name": "17. Divisioona",
+      "alias": ["17DIV"]
+    },
+    {
       "id": 624,
       "name": "17. SS-Panzergrenadier \"Götz von B.\"",
       "alias": ["17SSPG","17SS"]
@@ -155,6 +165,11 @@
       "alias": ["352ID"]
     },
     {
+      "id": 780,
+      "name": "715. Infanterie",
+      "alias": ["715I"]
+    },
+    {
       "id": 263,
       "name": "Fallschirm-Panzer \"Hermann Göring\"",
       "alias": ["FPzHG"]
@@ -168,6 +183,11 @@
       "id": 138,
       "name": "Gruppe Harteneck",
       "alias": ["GH"]
+    },
+    {
+      "id": 781,
+      "name": "Kampfgruppe von Tettau",
+      "alias": ["TET"]
     },
     {
       "id": 139,
@@ -214,6 +234,7 @@
       "name": "Unternehmen Rösselsprung",
       "alias": ["UR"]
     },
+
     {
       "id": 728,
       "name": "Verteidigungsbereich Toulon",
