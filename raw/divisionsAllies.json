@@ -1,5 +1,10 @@
 [
     {
+    "id": 782,
+    "name": "1st Airborne Task Force",
+    "alias": ["1ATF"]
+    },  
+    {
     "id": 264,
     "name": "1 Pancerna",
     "alias": ["Pan"]
@@ -13,6 +18,11 @@
     "id": 631,
     "name": "1e Division Française Libre",
     "alias": ["DFL"]
+    },
+    {
+      "id": 776,
+      "name": "1st Special Service Brigade",
+      "alias": ["1SSB"]
     },
     {
       "id": 132,
@@ -151,6 +161,11 @@
       "alias": ["AK"]
     },
     {
+      "id": 777,
+      "name": "Bronirana Brigada",
+      "alias": ["BRON"]
+    },
+    {
       "id": 630,
       "name": "CIABG",
       "alias": ["CIABG"]
@@ -174,6 +189,11 @@
       "id": 734,
       "name": "Divizia 9 Infanterie",
       "alias": ["9ID"]
+    },
+    {
+      "id": 779,
+      "name": "Groupement Dody",
+      "alias": ["DODY"]
     },
     {
       "id": 438,
