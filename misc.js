@@ -10,6 +10,7 @@ const incomeLevel = {
 }
 
 const mode = {
+  1: 'Conquest',
   2: 'Conquest',
   3: 'Closer Combat',
   5: 'Breakthrough'
