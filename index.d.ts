@@ -39,6 +39,7 @@ declare interface MiscData {
     scoreLimit:{[index: number]:string};
     incomeTypes:{[index: number]:string};
     map:{[index: string]:string};
+    aiLevel:{[index: number]:string};
 }
 
 export const maps:MapsData
