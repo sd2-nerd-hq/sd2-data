@@ -1,243 +1,365 @@
 [
-    {
-    "id": 433,
-    "name": "1 Blindată \"Romania Mare\"",
-    "alias": ["Blindata"]
-    },
-    {
-      "id": 643,
-      "name": "1. Fallschirmjäger",
-      "alias": ["1FSJ"]
-    },
-    {
+  {
+    "id": 71,
+    "name": "5. Panzer",
+    "alias": [
+      "5Pz"
+    ]
+  },
+  {
+    "id": 135,
+    "name": "20. Panzer",
+    "alias": [
+      "20Pz"
+    ]
+  },
+  {
+    "id": 136,
+    "name": "28. Jäger",
+    "alias": [
+      "28Jag"
+    ]
+  },
+  {
+    "id": 137,
+    "name": "78. Sturm",
+    "alias": [
+      "78Sturm"
+    ]
+  },
+  {
+    "id": 138,
+    "name": "Gruppe Harteneck",
+    "alias": [
+      "GH"
+    ]
+  },
+  {
+    "id": 139,
+    "name": "Korück 559",
+    "alias": [
+      "Koruck"
+    ]
+  },
+  {
     "id": 140,
     "name": "1. Lovas",
-    "alias": ["Lovas"]
-    },
-    {
-      "id": 645,
-      "name": "1. Páncélos Hadosztály",
-      "alias": ["1PAN"]
-    },
-    {
-      "id": 259,
-      "name": "1. Skijäger",
-      "alias": ["1SJ"]
-    },
-    {
-      "id": 432,
-      "name": "2. Páncélos Hadosztály",
-      "alias": ["2Pan"]
-    },
-    {
-      "id": 626,
-      "name": "3. Fallschirmjäger",
-      "alias": ["3FSJ"]
-    },
-    {
-      "id": 736,
-      "name": "4. Fallschirmjäger",
-      "alias": ["4FSJ"]
-    },
-    {
-      "id": 434,
-      "name": "4 Munte",
-      "alias": ["Munte"]
-    },
-    {
-      "id": 739,
-      "name": "4a Divisione Alpini \"Monterosa\"",
-      "alias": ["4aAlpini"]
-    },
-    {
-      "id": 71,
-      "name": "5. Panzer",
-      "alias": ["5Pz"]
-    },
-    {
-      "id": 435,
-      "name": "5 Cavalerie Motorizată",
-      "alias": ["5Cav"]
-    },
-    {
-      "id": 737,
-      "name": "5. Gebirgs-Division",
-      "alias": ["5Gebirgs"]
-    },
-    {
-      "id": 262,
-      "name": "5. SS-Panzer \"Wiking\"",
-      "alias": ["5SSPz","5ss"]
-    },
-    {
-      "id": 636,
-      "name": "11. SS-Freiwilligen Panzergrenadier “Nordland”",
-      "alias": ["11SSPG","11ss"]
-    },
-    {
-      "id": 623,
-      "name": "12. SS-Panzer \"Hitlerjugend\"",
-      "alias": ["12SSPz","12ss"]
-    },
-    {
-      "id": 141,
-      "name": "12. Tartalék",
-      "alias": ["Tartalek"]
-    },
-    {
-      "id": 149,
-      "name": "14. Infanterie",
-      "alias": ["14ID"]
-    },
-    {
-      "id": 430,
-      "name": "16. Panzer",
-      "alias": ["16Pz"]
-    },
-    {
-      "id": 778,
-      "name": "17. Divisioona",
-      "alias": ["17DIV"]
-    },
-    {
-      "id": 624,
-      "name": "17. SS-Panzergrenadier \"Götz von B.\"",
-      "alias": ["17SSPG","17SS"]
-    },
-    {
-      "id": 135,
-      "name": "20. Panzer",
-      "alias": ["20Pz"]
-    },
-    {
-      "id": 637,
-      "name": "20. Panzergrenadier",
-      "alias": ["20PG"]
-    },
-    {
-      "id": 155,
-      "name": "21. Panzer",
-      "alias": ["21Pz"]
-    },
-    {
-      "id": 730,
-      "name": "25. Hadosztály",
-      "alias": ["25ID"]
-    },
-    {
-      "id": 269,
-      "name": "25. Panzergrenadier",
-      "alias": ["25PG"]
-    },
-    {
-      "id": 735,
-      "name": "26. Panzerdivision",
-      "alias": ["26Panzer"]
-    },
-    {
-      "id": 136,
-      "name": "28. Jäger",
-      "alias": ["28Jag"]
-    },
-    {
-      "id": 726,
-      "name": "52. Sicherungs-Division z.b.V",
-      "alias": ["52SD"]
-    },
-    {
-      "id": 137,
-      "name": "78. Sturm",
-      "alias": ["78Sturm"]
-    },
-    {
-      "id": 154,
-      "name": "116. Panzer",
-      "alias": ["116Pz"]
-    },
-    {
-      "id": 356,
-      "name": "122. Infanterie",
-      "alias": ["122ID"]
-    },
-    {
-      "id": 156,
-      "name": "352. Infanterie",
-      "alias": ["352ID"]
-    },
-    {
-      "id": 780,
-      "name": "715. Infanterie",
-      "alias": ["715I"]
-    },
-    {
-      "id": 263,
-      "name": "Fallschirm-Panzer \"Hermann Göring\"",
-      "alias": ["FPzHG"]
-    },
-    {
-      "id": 774,
-      "name": "Festung Dünnkirchen",
-      "alias": ["DUNK"]
-    },
-    {
-      "id": 138,
-      "name": "Gruppe Harteneck",
-      "alias": ["GH"]
-    },
-    {
-      "id": 781,
-      "name": "Kampfgruppe von Tettau",
-      "alias": ["TET"]
-    },
-    {
-      "id": 139,
-      "name": "Korück 559",
-      "alias": ["Koruck"]
-    },
-    {
-      "id": 350,
-      "name": "Panssaridivisioona",
-      "alias": ["FINPz"]
-    },
-    {
-      "id": 632,
-      "name": "Panzerdivision Tatra",
-      "alias": ["Tatra"]
-    },
-    {
-      "id": 638,
-      "name": "Panzergrenadier \"Grossdeutschland\"",
-      "alias": ["PGG","wiabu"]
-    },
+    "alias": [
+      "Lovas"
+    ]
+  },
+  {
+    "id": 141,
+    "name": "12. Tartalék",
+    "alias": [
+      "Tartalek"
+    ]
+  },
+  {
+    "id": 149,
+    "name": "14. Infanterie",
+    "alias": [
+      "14ID"
+    ]
+  },
+  {
+    "id": 154,
+    "name": "116. Panzer",
+    "alias": [
+      "116Pz"
+    ]
+  },
+  {
+    "id": 155,
+    "name": "21. Panzer",
+    "alias": [
+      "21Pz"
+    ]
+  },
+  {
+    "id": 156,
+    "name": "352. Infanterie",
+    "alias": [
+      "352ID"
+    ]
+  },
   {
     "id": 157,
     "name": "Panzer Lehr",
-    "alias": ["PzLehr"]
+    "alias": [
+      "PzLehr"
+    ]
   },
-    {
-      "id": 419,
-      "name": "Panzerverband Strachwitz",
-      "alias": ["pig","piggy"]
-    },
-    {
-      "id": 354,
-      "name": "Ryhmä Raappana",
-      "alias": ["Raappana"]
-    },
-    {
-      "id": 731,
-      "name": "Sperrverband von Kessel",
-      "alias": ["SVK"]
-    },
-    {
-      "id": 743,
-      "name": "Unternehmen Rösselsprung",
-      "alias": ["UR"]
-    },
-
-    {
-      "id": 728,
-      "name": "Verteidigungsbereich Toulon",
-      "alias": ["Toulon"]
-    }
+  {
+    "id": 259,
+    "name": "1. Skijäger",
+    "alias": [
+      "1SJ"
+    ]
+  },
+  {
+    "id": 262,
+    "name": "5. SS-Panzer \"Wiking\"",
+    "alias": [
+      "5SSPz",
+      "5ss"
+    ]
+  },
+  {
+    "id": 269,
+    "name": "25. Panzergrenadier",
+    "alias": [
+      "25PG"
+    ]
+  },
+  {
+    "id": 350,
+    "name": "Panssaridivisioona",
+    "alias": [
+      "FINPz"
+    ]
+  },
+  {
+    "id": 354,
+    "name": "Ryhmä Raappana",
+    "alias": [
+      "Raappana"
+    ]
+  },
+  {
+    "id": 356,
+    "name": "122. Infanterie",
+    "alias": [
+      "122ID"
+    ]
+  },
+  {
+    "id": 419,
+    "name": "Panzerverband Strachwitz",
+    "alias": [
+      "pig",
+      "piggy"
+    ]
+  },
+  {
+    "id": 430,
+    "name": "16. Panzer",
+    "alias": [
+      "16Pz"
+    ]
+  },
+  {
+    "id": 432,
+    "name": "2. Páncélos Hadosztály",
+    "alias": [
+      "2Pan"
+    ]
+  },
+  {
+    "id": 433,
+    "name": "1 Blindată \"Romania Mare\"",
+    "alias": [
+      "Blindata"
+    ]
+  },
+  {
+    "id": 434,
+    "name": "4 Munte",
+    "alias": [
+      "Munte"
+    ]
+  },
+  {
+    "id": 435,
+    "name": "5 Cavalerie Motorizată",
+    "alias": [
+      "5Cav"
+    ]
+  },
+  {
+    "id": 632,
+    "name": "Panzerdivision Tatra",
+    "alias": [
+      "Tatra"
+    ]
+  },
+  {
+    "id": 636,
+    "name": "11. SS-Freiwilligen Panzergrenadier “Nordland”",
+    "alias": [
+      "11SSPG",
+      "11ss"
+    ]
+  },
+  {
+    "id": 637,
+    "name": "20. Panzergrenadier",
+    "alias": [
+      "20PG"
+    ]
+  },
+  {
+    "id": 638,
+    "name": "Panzergrenadier \"Grossdeutschland\"",
+    "alias": [
+      "GrossDeutschland",
+      "wiabu",
+      "GD"
+    ]
+  },
+  {
+    "id": 643,
+    "name": "1. Fallschirmjäger",
+    "alias": [
+      "1FSJ"
+    ]
+  },
+  {
+    "id": 645,
+    "name": "1. Páncélos Hadosztály",
+    "alias": [
+      "1PAN"
+    ]
+  },
+  {
+    "id": 726,
+    "name": "52. Sicherungs-Division z.b.V",
+    "alias": [
+      "52SD"
+    ]
+  },
+  {
+    "id": 728,
+    "name": "Verteidigungsbereich Toulon",
+    "alias": [
+      "Toulon"
+    ]
+  },
+  {
+    "id": 730,
+    "name": "25. Hadosztály",
+    "alias": [
+      "25ID"
+    ]
+  },
+  {
+    "id": 731,
+    "name": "Sperrverband von Kessel",
+    "alias": [
+      "Kessel"
+    ]
+  },
+  {
+    "id": 735,
+    "name": "26. Panzerdivision",
+    "alias": [
+      "26Panzer"
+    ]
+  },
+  {
+    "id": 736,
+    "name": "4. Fallschirmjäger",
+    "alias": [
+      "4FSJ"
+    ]
+  },
+  {
+    "id": 737,
+    "name": "5. Gebirgs-Division",
+    "alias": [
+      "5Gebirgs"
+    ]
+  },
+  {
+    "id": 739,
+    "name": "4a Divisione Alpini \"Monterosa\"",
+    "alias": [
+      "4aAlpini"
+    ]
+  },
+  {
+    "id": 743,
+    "name": "Unternehmen Rösselsprung",
+    "alias": [
+      "RosselSprung"
+    ]
+  },
+  {
+    "id": 774,
+    "name": "Festung Dünnkirchen",
+    "alias": [
+      "Dunkirk"
+    ]
+  },
+  {
+    "id": 778,
+    "name": "17. Divisioona",
+    "alias": [
+      "17th div"
+    ]
+  },
+  {
+    "id": 780,
+    "name": "715. Infanterie",
+    "alias": [
+      "715th Inf"
+    ]
+  },
+  {
+    "id": 781,
+    "name": "Kampfgruppe von Tettau",
+    "alias": [
+      "TET"
+    ]
+  },
+  {
+    "id": 786,
+    "name": "1. SS-Panzer \"LSSAH\"",
+    "alias": [
+      "1st SS"
+    ]
+  },
+  {
+    "id": 790,
+    "name": "9. Panzer",
+    "alias": [
+      "9Pz"
+    ]
+  },
+  {
+    "id": 791,
+    "name": "Festung Groß-Paris",
+    "alias": [
+      "FGP",
+      "Festung Paris"
+    ]
+  },
+  {
+    "id": 789,
+    "name": "91. Luftlande",
+    "alias": [
+      "91LL"
+    ]
+  },
+  {
+    "id": 785,
+    "name": "16. Luftwaffe",
+    "alias": [
+      "16LW"
+    ]
+  },
+  {
+    "id": 788,
+    "name": "716. Infanterie",
+    "alias": [
+      "716th Inf"
+    ]
+  },
+  {
+    "id": 787,
+    "name": "2. Panzer",
+    "alias": [
+      "2Pz"
+    ]
+  }
 ]
