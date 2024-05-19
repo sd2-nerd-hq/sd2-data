@@ -2,57 +2,92 @@
   {
     "id": 29,
     "name": "1. Armoured Division",
-    "alias": ["1AD"]
-  }, 
+    "alias": [
+      "1AD"
+    ]
+  },
   {
     "id": 25,
     "name": "11e Division Parachutiste",
-    "alias": ["11e"]
-  }, 
+    "alias": [
+      "11e"
+    ]
+  },
   {
     "id": 20,
     "name": "2. Panzergrenadier",
-    "alias": ["2PG"]
-  }, 
+    "alias": [
+      "2PG"
+    ]
+  },
   {
     "id": 30,
     "name": "2nd Infantry Division",
-    "alias": ["2ID"]
-  }, 
+    "alias": [
+      "2ID"
+    ]
+  },
   {
     "id": 13,
     "name": "3rd Armored Division",
-    "alias": ["3Arm"]
+    "alias": [
+      "3Arm"
+    ]
   },
   {
     "id": 26,
     "name": "5e Division Blindée",
-    "alias": ["5DB"]
-  }, 
+    "alias": [
+      "5DB"
+    ]
+  },
   {
     "id": 10,
     "name": "5. Panzer",
-    "alias": ["5Pz"]
-  }, 
+    "alias": [
+      "5Pz"
+    ]
+  },
   {
     "id": 14,
     "name": "8th Infantry",
-    "alias": ["8Inf"]
+    "alias": [
+      "8Inf"
+    ]
   },
   {
     "id": 24,
     "name": "82nd Airborne",
-    "alias": ["82AB"]
+    "alias": [
+      "82AB"
+    ]
   },
   {
     "id": 15,
     "name": "Berlin Command",
-    "alias": ["BER"]
+    "alias": [
+      "BER"
+    ]
   },
   {
     "id": 28,
     "name": "Territorialkommando Süd",
-    "alias": ["TerrKdo"]
+    "alias": [
+      "TerrKdo"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "11th Armored Cavalry Regiment",
+    "alias": [
+      "11ACR"
+    ]
+  },
+  {
+    "id": 208,
+    "name": "24th Infantry Division",
+    "alias": [
+      "24ID"
+    ]
   }
-
 ]
