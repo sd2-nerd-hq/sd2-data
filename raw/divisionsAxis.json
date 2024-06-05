@@ -184,6 +184,20 @@
     ]
   },
   {
+    "id": 623,
+    "name": "12th SS Panzer Hitlerjugend",
+    "alias": [
+      "12th SS"
+    ]
+  },
+  {
+    "id": 624,
+    "name": "17th SS Panzergrenadier ”Götz von Berlichingen”",
+    "alias": [
+      "17th SS"
+    ]
+  }
+  {
     "id": 636,
     "name": "11. SS-Freiwilligen Panzergrenadier “Nordland”",
     "alias": [
