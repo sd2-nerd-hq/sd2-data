@@ -14,10 +14,24 @@
     ]
   },
   {
+    "id": 12,
+    "name": "11th Armored Cavalry Regiment",
+    "alias": [
+      "11ACR"
+    ]
+  },
+  {
     "id": 20,
     "name": "2. Panzergrenadier",
     "alias": [
       "2PG"
+    ]
+  },
+  {
+    "id": 208,
+    "name": "24th Infantry Division",
+    "alias": [
+      "24ID"
     ]
   },
   {
@@ -35,13 +49,6 @@
     ]
   },
   {
-    "id": 26,
-    "name": "5e Division Blindée",
-    "alias": [
-      "5DB"
-    ]
-  },
-  {
     "id": 10,
     "name": "5. Panzer",
     "alias": [
@@ -49,10 +56,10 @@
     ]
   },
   {
-    "id": 14,
-    "name": "8th Infantry",
+    "id": 26,
+    "name": "5e Division Blindée",
     "alias": [
-      "8Inf"
+      "5DB"
     ]
   },
   {
@@ -60,6 +67,13 @@
     "name": "82nd Airborne",
     "alias": [
       "82AB"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "8th Infantry",
+    "alias": [
+      "8Inf"
     ]
   },
   {
@@ -74,20 +88,6 @@
     "name": "Territorialkommando Süd",
     "alias": [
       "TerrKdo"
-    ]
-  },
-  {
-    "id": 12,
-    "name": "11th Armored Cavalry Regiment",
-    "alias": [
-      "11ACR"
-    ]
-  },
-  {
-    "id": 208,
-    "name": "24th Infantry Division",
-    "alias": [
-      "24ID"
     ]
   }
 ]

@@ -1,16 +1,16 @@
 [
   {
-    "id": 19,
-    "name": "4. Motorisierte Schützendivision ",
+    "id": 195,
+    "name": "119-Y Odt. Tank. Polk",
     "alias": [
-      "4MSD"
+      "119T"
     ]
   },
   {
-    "id": 9,
-    "name": "7. Panzer",
+    "id": 207,
+    "name": "27-Ya Gv. Motostrelk. Div.",
     "alias": [
-      "7Pz"
+      "27MSD"
     ]
   },
   {
@@ -25,6 +25,27 @@
     "name": "39-ya Gv. Strelk. Div",
     "alias": [
       "39GVMSD"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "4. Motorisierte Schützendivision ",
+    "alias": [
+      "4MSD"
+    ]
+  },
+  {
+    "id": 216,
+    "name": "6-ya Og Motostrelk. Div.",
+    "alias": [
+      "6MD"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "7. Panzer",
+    "alias": [
+      "7Pz"
     ]
   },
   {
@@ -46,27 +67,6 @@
     "name": "Unternehmen Zentrum",
     "alias": [
       "ZEN"
-    ]
-  },
-  {
-    "id": 216,
-    "name": "6-ya Og Motostrelk. Div.",
-    "alias": [
-      "6MD"
-    ]
-  },
-  {
-    "id": 195,
-    "name": "119-Y Odt. Tank. Polk",
-    "alias": [
-      "119T"
-    ]
-  },
-  {
-    "id": 207,
-    "name": "27-Ya Gv. Motostrelk. Div.",
-    "alias": [
-      "27MSD"
     ]
   }
 ]
