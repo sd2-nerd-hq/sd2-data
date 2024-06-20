@@ -16,7 +16,7 @@ const mode = {
   5: 'Breakthrough'
 }
 
-const AILevel = {
+const aiLevel = {
   0: "Very Easy",
   1: "Easy",
   2: "Medium",
@@ -273,4 +273,4 @@ const map = {
 
 }
 
-module.exports = {incomeLevel, incomeTypes, scoreLimit, victory, mode, map, AILevel}
+module.exports = { incomeLevel, incomeTypes, scoreLimit, victory, mode, map, aiLevel }
