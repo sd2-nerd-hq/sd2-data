@@ -218,7 +218,7 @@ const map = {
   _4x2_Slutsk_LD_4v4: "Slutsk 4v4",
   _4x2_Slutsk_LD_4v4_CQC: "Slutsk 4v4",
   _4x2_Slutsk_LD_4v4_BKT: "Slutsk 4v4",
-  _4x2_tannenberg_10vs10: "Tannenberg 10",
+  _4x2_tannenberg_10vs10: "Tannenberg 10v10",
 
   _3x3_MountRiver_1vs1: "Mount River",
   _4x3_geisa_1vs1_CONQ: "Geisa",
@@ -262,14 +262,14 @@ const map = {
   _4x2_Chemical: "Chemical 4v4",
   _4x2_Chemical_4vs4_DEST: "Chemical 4v4",
   _4x2_DarkStream: "Dark Stream 4v4",
-  _3x3_IronWaters: "Iron Waters 10",
-  _3x3_IronWaters_10vs10_DEST: "Iron Waters 10",
-  _5x2_boucle: "Loop 10",
-  _5x2_boucle_10vs10_DEST: "Loop 10",
-  _5x2_crown: "Crown 10",
-  _5x2_crown_10vs10_DEST: "Crown 10",
-  _4x3_geisa: "Geisa 10",
-  _4x3_geisa_10vs10_DEST: "Geisa 10"
+  _3x3_IronWaters: "Iron Waters 10v10",
+  _3x3_IronWaters_10vs10_DEST: "Iron Waters 10v10",
+  _5x2_boucle: "Loop 10v10",
+  _5x2_boucle_10vs10_DEST: "Loop 10v10",
+  _5x2_crown: "Crown 10v10",
+  _5x2_crown_10vs10_DEST: "Crown 10v10",
+  _4x3_geisa: "Geisa 10v10",
+  _4x3_geisa_10vs10_DEST: "Geisa 10v10"
 
 }
 
