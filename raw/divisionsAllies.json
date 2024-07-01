@@ -4,350 +4,400 @@
     "name": "1st Airborne Task Force",
     "alias": [
       "1ATF"
-    ]
+    ],
+    "nation": "usa"
   },
   {
     "id": 264,
     "name": "1 Pancerna",
     "alias": [
       "Pan"
-    ]
+    ],
+    "nation": "poland"
   },
   {
     "id": 255,
     "name": "1 Piechoty \"Tadeusza Kościuszki\"",
     "alias": [
       "Pie"
-    ]
+    ],
+    "nation": "poland"
   },
   {
     "id": 631,
     "name": "1e Division Française Libre",
     "alias": [
       "DFL"
-    ]
+    ],
+    "nation": "france"
   },
   {
     "id": 776,
     "name": "1st Special Service Brigade",
     "alias": [
       "1SSB"
-    ]
+    ],
+    "nation": "uk"
   },
   {
     "id": 132,
     "name": "2-ya Gvard. Tankovy Korpus",
     "alias": [
       "2GTC"
-    ]
+    ],
+    "nation": "ussr"
   },
   {
     "id": 153,
     "name": "2e Blindée",
     "alias": [
       "Blindee"
-    ]
+    ],
+    "nation": "france"
   },
   {
     "id": 628,
     "name": "2nd Infantry Division \"Indianhead\"",
     "alias": [
       "2ID"
-    ]
+    ],
+    "nation": "usa"
   },
   {
     "id": 646,
     "name": "2nd New-Zealand",
     "alias": [
       "2NZ"
-    ]
+    ],
+    "nation": "new_zeland"
   },
   {
     "id": 144,
     "name": "3-ya Gvard. Mechanizi. Korpus",
     "alias": [
       "3GMC"
-    ]
+    ],
+    "nation": "ussr"
   },
   {
     "id": 260,
     "name": "3-ya Gvard. Tankovy Korpus",
     "alias": [
       "3GTC"
-    ]
+    ],
+    "nation": "ussr"
   },
   {
     "id": 436,
     "name": "3-ya VDV",
     "alias": [
       "VDV"
-    ]
+    ],
+    "nation": "ussr"
   },
   {
     "id": 70,
     "name": "3rd Armoured \"Spearhead\"",
     "alias": [
       "3US"
-    ]
+    ],
+    "nation": "usa"
   },
   {
     "id": 66,
     "name": "3rd Canadian Infantry",
     "alias": [
       "3CAN"
-    ]
+    ],
+    "nation": "canada"
   },
   {
     "id": 627,
     "name": "6th Airborne",
     "alias": [
       "6AD"
-    ]
+    ],
+    "nation": "uk"
   },
   {
     "id": 740,
     "name": "6th South African Armoured",
     "alias": [
       "6SA"
-    ]
+    ],
+    "nation": "south_africa"
   },
   {
     "id": 640,
     "name": "7. Eesti Laskurdiviis",
     "alias": [
       "7EST"
-    ]
+    ],
+    "nation": "ussr"
   },
   {
     "id": 437,
     "name": "7-y Mechanizi. Korpus",
     "alias": [
       "7MECH"
-    ]
+    ],
+    "nation": "ussr"
   },
   {
     "id": 741,
     "name": "8th (Indian) Infantry",
     "alias": [
       "8II"
-    ]
+    ],
+    "nation": "uk"
   },
   {
     "id": 150,
     "name": "9-ya Gvard. Kavalerii",
     "alias": [
       "9KAV"
-    ]
+    ],
+    "nation": "ussr"
   },
   {
     "id": 629,
     "name": "10-y Gv. Tankovy Korpus",
     "alias": [
       "10GTC"
-    ]
+    ],
+    "nation": "ussr"
   },
   {
     "id": 152,
     "name": "15th Infantry",
     "alias": [
       "15ID"
-    ]
+    ],
+    "nation": "uk"
   },
   {
     "id": 635,
     "name": "19-y Tank Korpus",
     "alias": [
       "19GTC"
-    ]
+    ],
+    "nation": "ussr"
   },
   {
     "id": 143,
     "name": "26-ya Gvard. Strelkovy",
     "alias": [
       "26GRD"
-    ]
+    ],
+    "nation": "ussr"
   },
   {
     "id": 134,
     "name": "29-ya Tankovy Korpus",
     "alias": [
       "29GTC"
-    ]
+    ],
+    "nation": "ussr"
   },
   {
     "id": 145,
     "name": "44-ya Gvard. Strelkovy",
     "alias": [
       "44GRD"
-    ]
+    ],
+    "nation": "ussr"
   },
   {
     "id": 270,
     "name": "84-ya Gvard. Strelkovy",
     "alias": [
       "84GRD"
-    ]
+    ],
+    "nation": "ussr"
   },
   {
     "id": 431,
     "name": "97-ya Gvard. Strelkovy",
     "alias": [
       "97GRD"
-    ]
+    ],
+    "nation": "ussr"
   },
   {
     "id": 352,
     "name": "126-y L. Gornostrelkovy Korpus",
     "alias": [
       "126LGK"
-    ]
+    ],
+    "nation": "ussr"
   },
   {
     "id": 142,
     "name": "184-ya Strelkovy",
     "alias": [
       "184ID"
-    ]
+    ],
+    "nation": "ussr"
   },
   {
     "id": 357,
     "name": "358-ya Strelkovy",
     "alias": [
       "358ID"
-    ]
+    ],
+    "nation": "ussr"
   },
   {
     "id": 261,
     "name": "Armia Krajowa",
     "alias": [
       "AK"
-    ]
+    ],
+    "nation": "poland"
   },
   {
     "id": 777,
     "name": "Bronirana Brigada",
     "alias": [
       "BRON"
-    ]
+    ],
+    "nation": "bulgaria"
   },
   {
     "id": 630,
     "name": "CIABG",
     "alias": [
       "CIABG"
-    ]
+    ],
+    "nation": "czechoslovakia"
   },
   {
     "id": 738,
     "name": "Corpo Italiano di Liberazione",
     "alias": [
-      "CIDL"
-    ]
+      "CIL"
+    ],
+    "nation": "italy_al"
   },
   {
     "id": 775,
     "name": "Corpul 6 Teritorial",
     "alias": [
       "6CORP"
-    ]
+    ],
+    "nation": "romania_al"
   },
   {
     "id": 733,
     "name": "Divizia 8 Cavalerie Motorizata",
     "alias": [
       "8CAV"
-    ]
+    ],
+    "nation": "romania_al"
   },
   {
     "id": 734,
     "name": "Divizia 9 Infanterie",
     "alias": [
       "9ID"
-    ]
+    ],
+    "nation": "romania_al"
   },
   {
     "id": 779,
     "name": "Groupement Dody",
     "alias": [
       "DODY"
-    ]
+    ],
+    "nation": "france"
   },
   {
     "id": 438,
     "name": "Morskaya Gruppa Bakhtina",
     "alias": [
       "MGB"
-    ]
+    ],
+    "nation": "ussr"
   },
   {
     "id": 744,
     "name": "Narodnooslobodilačka vojska",
     "alias": [
       "NOV"
-    ]
+    ],
+    "nation": "yugoslavia"
   },
   {
     "id": 147,
     "name": "Podv. Gruppa Bezuglogo",
     "alias": [
       "Bezuglogo"
-    ]
+    ],
+    "nation": "ussr"
   },
   {
     "id": 641,
     "name": "Podv. Gruppa Fedyunkin",
     "alias": [
       "Fedyunkin"
-    ]
+    ],
+    "nation": "ussr"
   },
   {
     "id": 148,
     "name": "Podv. Gruppa Tyurina",
     "alias": [
       "Tyurina"
-    ]
+    ],
+    "nation": "ussr"
   },
   {
     "id": 351,
     "name": "Podv. Gruppa Vyborg",
     "alias": [
       "Vyborg"
-    ]
+    ],
+    "nation": "ussr"
   },
   {
     "id": 727,
     "name": "Rezerv 43-y Armii",
     "alias": [
       "43RA"
-    ]
+    ],
+    "nation": "ussr"
   },
   {
     "id": 742,
     "name": "Task Force 45",
     "alias": [
       "TF45"
-    ]
+    ],
+    "nation": "usa"
   },
   {
     "id": 642,
     "name": "Task Force Butler",
     "alias": [
       "TFB"
-    ]
+    ],
+    "nation": "usa"
   },
   {
     "id": 794,
     "name": "101st Airborne Division \"Screaming Eagles\"",
     "alias": [
       "101AD"
-    ]
+    ],
+    "nation": "usa"
   },
   {
     "id": 793,
     "name": "Guards Armoured",
     "alias": [
       "Guards"
-    ]
+    ],
+    "nation": "uk"
   },
   {
     "id": 792,
@@ -355,7 +405,8 @@
     "alias": [
       "7AD",
       "Desert Rats"
-    ]
+    ],
+    "nation": "uk"
   },
   {
     "id": 795,
@@ -363,27 +414,31 @@
     "alias": [
       "1ID",
       "Big Red One"
-    ]
+    ],
+    "nation": "usa"
   },
   {
     "id": 783,
     "name": "4th Canadian Armoured",
     "alias": [
       "4CA"
-    ]
+    ],
+    "nation": "canada"
   },
   {
     "id": 796,
     "name": "4th Armoured",
     "alias": [
       "4AD"
-    ]
+    ],
+    "nation": "usa"
   },
   {
     "id": 784,
     "name": "DBSAS",
     "alias": [
       "DBSAS"
-    ]
+    ],
+    "nation": "france"
   }
 ]

@@ -4,42 +4,48 @@
     "name": "1 Blindată \"Romania Mare\"",
     "alias": [
       "Blindata"
-    ]
+    ],
+    "nation": "romania_ax"
   },
   {
     "id": 643,
     "name": "1. Fallschirmjäger",
     "alias": [
       "1FSJ"
-    ]
+    ],
+    "nation": "germany"
   },
   {
     "id": 140,
     "name": "1. Lovas",
     "alias": [
       "Lovas"
-    ]
+    ],
+    "nation": "hungary"
   },
   {
     "id": 645,
     "name": "1. Páncélos Hadosztály",
     "alias": [
       "1PAN"
-    ]
+    ],
+    "nation": "hungary"
   },
   {
     "id": 786,
     "name": "1. SS-Panzer \"LSSAH\"",
     "alias": [
       "1st SS"
-    ]
+    ],
+    "nation": "germany"
   },
   {
     "id": 259,
     "name": "1. Skijäger",
     "alias": [
       "1SJ"
-    ]
+    ],
+    "nation": "germany"
   },
   {
     "id": 636,
@@ -47,189 +53,216 @@
     "alias": [
       "11SSPG",
       "11ss"
-    ]
+    ],
+    "nation": "germany"
   },
   {
     "id": 154,
     "name": "116. Panzer",
     "alias": [
       "116Pz"
-    ]
+    ],
+    "nation": "germany"
   },
   {
     "id": 141,
     "name": "12. Tartalék",
     "alias": [
       "Tartalek"
-    ]
+    ],
+    "nation": "hungary"
   },
   {
     "id": 356,
     "name": "122. Infanterie",
     "alias": [
       "122ID"
-    ]
+    ],
+    "nation": "germany"
   },
   {
     "id": 623,
     "name": "12th SS Panzer Hitlerjugend",
     "alias": [
       "12th SS"
-    ]
+    ],
+    "nation": "germany"
   },
   {
     "id": 149,
     "name": "14. Infanterie",
     "alias": [
       "14ID"
-    ]
+    ],
+    "nation": "germany"
   },
   {
     "id": 785,
     "name": "16. Luftwaffe",
     "alias": [
       "16LW"
-    ]
+    ],
+    "nation": "germany"
   },
   {
     "id": 430,
     "name": "16. Panzer",
     "alias": [
       "16Pz"
-    ]
+    ],
+    "nation": "germany"
   },
   {
     "id": 778,
     "name": "17. Divisioona",
     "alias": [
       "17th div"
-    ]
+    ],
+    "nation": "finland"
   },
   {
     "id": 624,
     "name": "17th SS Panzergrenadier ”Götz von Berlichingen”",
     "alias": [
       "17th SS"
-    ]
+    ],
+    "nation": "germany"
   },
   {
     "id": 787,
     "name": "2. Panzer",
     "alias": [
       "2Pz"
-    ]
+    ],
+    "nation": "germany"
   },
   {
     "id": 432,
     "name": "2. Páncélos Hadosztály",
     "alias": [
       "2Pan"
-    ]
+    ],
+    "nation": "hungary"
   },
   {
     "id": 135,
     "name": "20. Panzer",
     "alias": [
       "20Pz"
-    ]
+    ],
+    "nation": "germany"
   },
   {
     "id": 637,
     "name": "20. Panzergrenadier",
     "alias": [
       "20PG"
-    ]
+    ],
+    "nation": "germany"
   },
   {
     "id": 155,
     "name": "21. Panzer",
     "alias": [
       "21Pz"
-    ]
+    ],
+    "nation": "germany"
   },
   {
     "id": 730,
     "name": "25. Hadosztály",
     "alias": [
       "25ID"
-    ]
+    ],
+    "nation": "hungary"
   },
   {
     "id": 269,
     "name": "25. Panzergrenadier",
     "alias": [
       "25PG"
-    ]
+    ],
+    "nation": "germany"
   },
   {
     "id": 735,
     "name": "26. Panzerdivision",
     "alias": [
       "26Panzer"
-    ]
+    ],
+    "nation": "germany"
   },
   {
     "id": 136,
     "name": "28. Jäger",
     "alias": [
       "28Jag"
-    ]
+    ],
+    "nation": "germany"
   },
   {
     "id": 626,
     "name": "3. Fallschirmjäger",
     "alias": [
       "3FSJ"
-    ]
+    ],
+    "nation": "germany"
   },
   {
     "id": 156,
     "name": "352. Infanterie",
     "alias": [
       "352ID"
-    ]
+    ],
+    "nation": "germany"
   },
   {
     "id": 434,
     "name": "4 Munte",
     "alias": [
       "Munte"
-    ]
+    ],
+    "nation": "romania_ax"
   },
   {
     "id": 736,
     "name": "4. Fallschirmjäger",
     "alias": [
       "4FSJ"
-    ]
+    ],
+    "nation": "germany"
   },
   {
     "id": 739,
     "name": "4a Divisione Alpini \"Monterosa\"",
     "alias": [
       "4aAlpini"
-    ]
+    ],
+    "nation": "italy_ax"
   },
   {
     "id": 435,
     "name": "5 Cavalerie Motorizată",
     "alias": [
       "5Cav"
-    ]
+    ],
+    "nation": "romania_ax"
   },
   {
     "id": 737,
     "name": "5. Gebirgs-Division",
     "alias": [
       "5Gebirgs"
-    ]
+    ],
+    "nation": "germany"
   },
   {
     "id": 71,
     "name": "5. Panzer",
     "alias": [
       "5Pz"
-    ]
+    ],
+    "nation": "germany"
   },
   {
     "id": 262,
@@ -237,63 +270,72 @@
     "alias": [
       "5SSPz",
       "5ss"
-    ]
+    ],
+    "nation": "germany"
   },
   {
     "id": 726,
     "name": "52. Sicherungs-Division z.b.V",
     "alias": [
       "52SD"
-    ]
+    ],
+    "nation": "germany"
   },
   {
     "id": 780,
     "name": "715. Infanterie",
     "alias": [
       "715th Inf"
-    ]
+    ],
+    "nation": "germany"
   },
   {
     "id": 788,
     "name": "716. Infanterie",
     "alias": [
       "716th Inf"
-    ]
+    ],
+    "nation": "germany"
   },
   {
     "id": 137,
     "name": "78. Sturm",
     "alias": [
       "78Sturm"
-    ]
+    ],
+    "nation": "germany"
   },
   {
     "id": 790,
     "name": "9. Panzer",
     "alias": [
       "9Pz"
-    ]
+    ],
+    "nation": "germany"
   },
   {
     "id": 789,
     "name": "91. Luftlande",
     "alias": [
       "91LL"
-    ]
+    ],
+    "nation": "germany"
   },
   {
     "id": 263,
     "name": "Fallschirm-Panzer Hermann Göring",
     "alias": [
       "HG"
-    ]
+    ],
+    "nation": "germany"
   },
   {
     "id": 774,
     "name": "Festung Dünnkirchen",
     "alias": [
       "Dunkirk"
-    ]
+    ],
+    "nation": "germany"
   },
   {
     "id": 791,
@@ -301,49 +343,56 @@
     "alias": [
       "FGP",
       "Festung Paris"
-    ]
+    ],
+    "nation": "germany"
   },
   {
     "id": 138,
     "name": "Gruppe Harteneck",
     "alias": [
       "GH"
-    ]
+    ],
+    "nation": "germany"
   },
   {
     "id": 781,
     "name": "Kampfgruppe von Tettau",
     "alias": [
       "TET"
-    ]
+    ],
+    "nation": "germany"
   },
   {
     "id": 139,
     "name": "Korück 559",
     "alias": [
       "Koruck"
-    ]
+    ],
+    "nation": "germany"
   },
   {
     "id": 350,
     "name": "Panssaridivisioona",
     "alias": [
       "FINPz"
-    ]
+    ],
+    "nation": "finland"
   },
   {
     "id": 157,
     "name": "Panzer Lehr",
     "alias": [
       "PzLehr"
-    ]
+    ],
+    "nation": "germany"
   },
   {
     "id": 632,
     "name": "Panzerdivision Tatra",
     "alias": [
       "Tatra"
-    ]
+    ],
+    "nation": "germany"
   },
   {
     "id": 638,
@@ -352,42 +401,47 @@
       "GrossDeutschland",
       "wiabu",
       "GD"
-    ]
+    ],
+    "nation": "germany"
   },
   {
     "id": 419,
     "name": "Panzerverband Strachwitz",
     "alias": [
-      "pig",
-      "piggy"
-    ]
+      "Strachwitz"
+    ],
+    "nation": "germany"
   },
   {
     "id": 354,
     "name": "Ryhmä Raappana",
     "alias": [
       "Raappana"
-    ]
+    ],
+    "nation": "finland"
   },
   {
     "id": 731,
     "name": "Sperrverband von Kessel",
     "alias": [
       "Kessel"
-    ]
+    ],
+    "nation": "germany"
   },
   {
     "id": 743,
     "name": "Unternehmen Rösselsprung",
     "alias": [
       "RosselSprung"
-    ]
+    ],
+    "nation": "germany"
   },
   {
     "id": 728,
     "name": "Verteidigungsbereich Toulon",
     "alias": [
       "Toulon"
-    ]
+    ],
+    "nation": "germany"
   }
 ]

@@ -4,69 +4,79 @@
     "name": "119-Y Odt. Tank. Polk",
     "alias": [
       "119T"
-    ]
+    ],
+    "nation": "ussr"
   },
   {
     "id": 207,
     "name": "27-Ya Gv. Motostrelk. Div.",
     "alias": [
       "27MSD"
-    ]
+    ],
+    "nation": "ussr"
   },
   {
     "id": 23,
     "name": "35-ya OG Desantno-Shturmovaya",
     "alias": [
       "35Air"
-    ]
+    ],
+    "nation": "ussr"
   },
   {
     "id": 17,
     "name": "39-ya Gv. Strelk. Div",
     "alias": [
       "39GVMSD"
-    ]
+    ],
+    "nation": "ussr"
   },
   {
     "id": 19,
-    "name": "4. Motorisierte Schützendivision ",
+    "name": "4. Motorisierte Schützendivision",
     "alias": [
       "4MSD"
-    ]
+    ],
+    "nation": "ddr"
   },
   {
     "id": 216,
     "name": "6-ya Og Motostrelk. Div.",
     "alias": [
       "6MD"
-    ]
+    ],
+    "nation": "ussr"
   },
   {
     "id": 9,
     "name": "7. Panzer",
     "alias": [
       "7Pz"
-    ]
+    ],
+    "nation": "ddr"
   },
   {
     "id": 11,
     "name": "79-ya Gv. Tank",
     "alias": [
       "79GTD"
-    ]
+    ],
+    "nation": "ussr"
   },
   {
     "id": 27,
     "name": "K.d.A. Bezirk Erfurt",
     "alias": [
       "ABE"
-    ]
+    ],
+    "nation": "ddr"
   },
   {
     "id": 33,
     "name": "Unternehmen Zentrum",
     "alias": [
       "ZEN"
-    ]
+    ],
+    "nation": "ddr"
   }
 ]

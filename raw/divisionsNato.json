@@ -4,90 +4,103 @@
     "name": "1. Armoured Division",
     "alias": [
       "1AD"
-    ]
+    ],
+    "nation": "uk"
   },
   {
     "id": 25,
     "name": "11e Division Parachutiste",
     "alias": [
       "11e"
-    ]
+    ],
+    "nation": "france"
   },
   {
     "id": 12,
     "name": "11th Armored Cavalry Regiment",
     "alias": [
       "11ACR"
-    ]
+    ],
+    "nation": "usa"
   },
   {
     "id": 20,
     "name": "2. Panzergrenadier",
     "alias": [
       "2PG"
-    ]
+    ],
+    "nation": "rfa"
   },
   {
     "id": 208,
     "name": "24th Infantry Division",
     "alias": [
       "24ID"
-    ]
+    ],
+    "nation": "usa"
   },
   {
     "id": 30,
     "name": "2nd Infantry Division",
     "alias": [
       "2ID"
-    ]
+    ],
+    "nation": "uk"
   },
   {
     "id": 13,
     "name": "3rd Armored Division",
     "alias": [
       "3Arm"
-    ]
+    ],
+    "nation": "usa"
   },
   {
     "id": 10,
     "name": "5. Panzer",
     "alias": [
       "5Pz"
-    ]
+    ],
+    "nation": "rfa"
   },
   {
     "id": 26,
     "name": "5e Division Blindée",
     "alias": [
       "5DB"
-    ]
+    ],
+    "nation": "france"
   },
   {
     "id": 24,
     "name": "82nd Airborne",
     "alias": [
       "82AB"
-    ]
+    ],
+    "nation": "usa"
   },
   {
     "id": 14,
     "name": "8th Infantry",
     "alias": [
       "8Inf"
-    ]
+    ],
+    "nation": "usa"
   },
   {
     "id": 15,
     "name": "Berlin Command",
     "alias": [
       "BER"
-    ]
+    ],
+    "nation": "uk"
   },
   {
     "id": 28,
     "name": "Territorialkommando Süd",
     "alias": [
       "TerrKdo"
-    ]
+    ],
+    "nation": "rfa"
   }
 ]

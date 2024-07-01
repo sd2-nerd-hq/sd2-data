@@ -12,10 +12,10 @@ const createKeyMap = divisionData => {
   return byId
 }
 
-function keyMapAlias(divs){
+function keyMapAlias(divs) {
   const byAlias = {}
-  for(let div in divs){
-    for(let alias of divs[div].alias){
+  for (let div in divs) {
+    for (let alias of divs[div].alias) {
       byAlias[alias] = divs[div]
     }
   }
