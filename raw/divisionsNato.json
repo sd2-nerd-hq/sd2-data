@@ -8,6 +8,14 @@
     "nation": "uk"
   },
   {
+    "id": 221,
+    "name": "101st Airborne Division",
+    "alias": [
+      "101AB"
+    ],
+    "nation": "usa"
+  },
+  {
     "id": 25,
     "name": "11e Division Parachutiste",
     "alias": [

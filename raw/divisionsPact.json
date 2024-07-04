@@ -40,6 +40,14 @@
     "nation": "ddr"
   },
   {
+    "id": 220,
+    "name": "56-ya OG Desantno-Shturmovaya",
+    "alias": [
+      "56Air"
+    ],
+    "nation": "ussr"
+  },
+  {
     "id": 216,
     "name": "6-ya Og Motostrelk. Div.",
     "alias": [
