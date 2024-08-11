@@ -116,6 +116,8 @@ const map = {
   _3x2_Zbuczyn_LD_1v1_CQC: "Zbuczyn",
   _3x2_Zbuczyn_LD_1v1_BKT: "Zbuczyn",
   _4x2_Tannenberg_LD_1v1: "Tannenberg",
+  _4x2_Tannenberg_LD_1v1_BKT: "Tannenberg",
+  _3x2_Highway_LD: "Autobahn_Zur_Holle",
   _3x2_Highway_LD_CQC: "Autobahn_Zur_Holle",
   _3x2_Highway_LD_CQC_BKT: "Autobahn_Zur_Holle",
   _3x2_Highway_LD_CQC_CQC: "Autobahn_Zur_Holle",
@@ -221,10 +223,15 @@ const map = {
   _4x2_tannenberg_10vs10: "Tannenberg 10v10",
 
   _3x3_MountRiver_1vs1: "Mount River",
+  _3x3_MountRiver_1vs1_CONQ_DUEL: "Mount River",
   _4x3_geisa_1vs1_CONQ: "Geisa",
+  _4x3_geisa_1vs1: "Geisa",
   _2x3_Death_Row_1vs1_CONQ: "Death Row",
+  _2x3_Death_Row_2vs2_CONQ: "Death Row 2v2",
   _2x3_Two_lakes_CONQ: "Two Lakes",
   _2x3_Two_lakes_2vs2_DEST: "Two Lakes",
+  _2x3_Two_lakes_1vs1_CONQ_DUEL: "Two lakes",
+  _2x3_Two_lakes: "Two Lakes",
   _2x3_zigzag_CONQ: "Vertigo",
   _2x3_Vertigo_1vs1_CONQ_DUEL: "Vertigo",
   _2x3_zigzag_2vs2_DEST: "Vertigo",
@@ -240,6 +247,12 @@ const map = {
   _3x3_IFleuve_2vs2_CONQ_DUEL: "Mount River 2v2",
   _5x2_Loop_2vs2_CONQ_DUEL: "Loop",
   _3x3_Airport_1vs1_CONQ_DUEL: "Airport",
+  _2x2_Hesse_1vs1_CONQ_DUEL: "Hesse",
+  _3x3_UrbanFrontlines_2vs2_CONQ: "Urban Frontlines",
+  _2x3_Ripple_2vs2_CONQ: "Ripple",
+  _5x2_Loop_2vs2_CONQ: "Loop",
+
+
 
   _2x3_DeuxCouloirs_3vs3: "Two Ways 3v3",
   _3x3_DangerHills: "Danger Hills 3v3",
@@ -258,6 +271,7 @@ const map = {
   _3x3_Rocks_3vs3_DEST: "Rocks 3v3",
   _3x3_TwinCities: "Twin Cities 3v3",
   _3x3_TwinCities_3vs3_DEST: "Twin Cities 3v3",
+
 
   _4x2_Chemical: "Chemical 4v4",
   _4x2_Chemical_4vs4_DEST: "Chemical 4v4",
