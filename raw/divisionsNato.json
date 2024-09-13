@@ -64,6 +64,14 @@
     "nation": "usa"
   },
   {
+    "id": 301,
+    "name": "35th Infantry Division (Mech.)",
+    "alias": [
+      "35ID"
+    ],
+    "nation": "usa"
+  },
+  {
     "id": 10,
     "name": "5. Panzer",
     "alias": [

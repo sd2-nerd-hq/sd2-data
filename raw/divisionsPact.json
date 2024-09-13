@@ -80,6 +80,14 @@
     "nation": "ddr"
   },
   {
+    "id": 300,
+    "name": "Rugener Gruppierung",
+    "alias": [
+      "RUG"
+    ],
+    "nation": "ddr"
+  },
+  {
     "id": 33,
     "name": "Unternehmen Zentrum",
     "alias": [

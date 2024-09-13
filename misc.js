@@ -287,4 +287,30 @@ const map = {
 
 }
 
-module.exports = { incomeLevel, incomeTypes, scoreLimit, victory, mode, map, aiLevel }
+const mapExceptions = {
+  "UrbanRiverBobr": "Bobr",
+  "VistulaGoraKalwaria": "GoraKalwaria",
+  "VilleCentraleHaroshaje": "Haroshaje",
+  "RiverSwampKrupa": "Krupa",
+  "PlateauCentralOrshaE": "OrshaEast",
+  "ProtolevelBuildOrshaN": "OrshaNorth",
+  "Lacs_Sianno": "Sianno",
+  "ForetTsel": "Tsel",
+  "Highway": "AutobahnZurHolle",
+  "WestBobrujsk": "BobrujskWest",
+  "AstrounaNovka": "Novka",
+  "EastVitebsk": "VitebskEast",
+  "WestBrest": "BrestWest",
+  "UrbanroadsKrupki": "Krupki",
+  "MarecagesNaratchlake": "NaratchLake",
+  "RiversPleshchenitsyS": "PleshchenitsySouth",
+
+  "zigzag": "Vertigo",
+  "BlackForestStorm": "BlackForest",
+  "Serpent": "Ripple",
+  "DeuxCouloirs": "TwoWays",
+  "IFleuve": "MountRiver",
+  "boucle": "Loop",
+}
+
+module.exports = { incomeLevel, incomeTypes, scoreLimit, victory, mode, map, aiLevel, mapExceptions }
