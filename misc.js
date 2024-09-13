@@ -294,7 +294,7 @@ const mapExceptions = {
   "RiverSwampKrupa": "Krupa",
   "PlateauCentralOrshaE": "OrshaEast",
   "ProtolevelBuildOrshaN": "OrshaNorth",
-  "Lacs_Sianno": "Sianno",
+  "LacsSianno": "Sianno",
   "ForetTsel": "Tsel",
   "Highway": "AutobahnZurHolle",
   "WestBobrujsk": "BobrujskWest",
