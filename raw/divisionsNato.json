@@ -32,6 +32,14 @@
     "nation": "usa"
   },
   {
+    "id": 304,
+    "name": "152e Division D'Infanterie",
+    "alias": [
+      "152e"
+    ],
+    "nation": "france"
+  },
+  {
     "id": 20,
     "name": "2. Panzergrenadier",
     "alias": [

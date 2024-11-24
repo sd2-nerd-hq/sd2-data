@@ -64,6 +64,14 @@
     "nation": "ddr"
   },
   {
+    "id": 305,
+    "name": "76-ya OG Desantno-Shturmovaya",
+    "alias": [
+      "76Air"
+    ],
+    "nation": "ussr"
+  },
+  {
     "id": 11,
     "name": "79-ya Gv. Tank",
     "alias": [
