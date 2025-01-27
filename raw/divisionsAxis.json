@@ -363,6 +363,14 @@
     "nation": "germany"
   },
   {
+    "id": 797,
+    "name": "Kampfgruppe Walther",
+    "alias": [
+      "Walther"
+    ],
+    "nation": "germany"
+  },
+  {
     "id": 139,
     "name": "Korück 559",
     "alias": [

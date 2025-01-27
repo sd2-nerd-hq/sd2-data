@@ -40,12 +40,20 @@
     "nation": "france"
   },
   {
+    "id": 91,
+    "name": "16DE Pantserdivisie",
+    "alias": [
+      "16PS"
+    ],
+    "nation": "belgium"
+  },
+  {
     "id": 20,
     "name": "2. Panzergrenadier",
     "alias": [
       "2PG"
     ],
-    "nation": "rfa"
+    "nation": "germany_west"
   },
   {
     "id": 208,
@@ -80,12 +88,28 @@
     "nation": "usa"
   },
   {
+    "id": 87,
+    "name": "4e Divisie",
+    "alias": [
+      "4e"
+    ],
+    "nation": "netherlands"
+  },
+  {
+    "id": 94,
+    "name": "4th Armored Division",
+    "alias": [
+      "4Arm"
+    ],
+    "nation": "uk"
+  },
+  {
     "id": 10,
     "name": "5. Panzer",
     "alias": [
       "5Pz"
     ],
-    "nation": "rfa"
+    "nation": "germany_west"
   },
   {
     "id": 26,
@@ -112,10 +136,26 @@
     "nation": "usa"
   },
   {
+    "id": 89,
+    "name": "9th Infantry (Motorized) Division",
+    "alias": [
+      "9Inf"
+    ],
+    "nation": "usa"
+  },
+  {
     "id": 15,
     "name": "Berlin Command",
     "alias": [
       "BER"
+    ],
+    "nation": "uk"
+  },
+  {
+    "id": 90,
+    "name": "MultiNational Airborne Division",
+    "alias": [
+      "MNAD"
     ],
     "nation": "uk"
   },
@@ -125,6 +165,6 @@
     "alias": [
       "TerrKdo"
     ],
-    "nation": "rfa"
+    "nation": "germany_west"
   }
 ]

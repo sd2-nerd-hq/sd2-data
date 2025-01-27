@@ -434,6 +434,14 @@
     "nation": "usa"
   },
   {
+    "id": 798,
+    "name": "43rd (Wessex) Infantry",
+    "alias": [
+      "43rd Wessex"
+    ],
+    "nation": "uk"
+  },
+  {
     "id": 784,
     "name": "DBSAS",
     "alias": [

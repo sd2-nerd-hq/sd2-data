@@ -8,6 +8,22 @@
     "nation": "ussr"
   },
   {
+    "id": 95,
+    "name": "20 Dywizja Pancerna",
+    "alias": [
+      "20Pan"
+    ],
+    "nation": "poland"
+  },
+  {
+    "id": 205,
+    "name": "25-ya Tank. Diviziya",
+    "alias": [
+      "25TD"
+    ],
+    "nation": "ussr"
+  },
+  {
     "id": 207,
     "name": "27-Ya Gv. Motostrelk. Div.",
     "alias": [
@@ -37,7 +53,15 @@
     "alias": [
       "4MSD"
     ],
-    "nation": "ddr"
+    "nation": "germany_east"
+  },
+  {
+    "id": 96,
+    "name": "4 Dywizja Zmechanizowana",
+    "alias": [
+      "4 mech"
+    ],
+    "nation": "poland"
   },
   {
     "id": 220,
@@ -61,7 +85,7 @@
     "alias": [
       "7Pz"
     ],
-    "nation": "ddr"
+    "nation": "germany_east"
   },
   {
     "id": 305,
@@ -80,20 +104,36 @@
     "nation": "ussr"
   },
   {
+    "id": 93,
+    "name": "9. Panzerdivision",
+    "alias": [
+      "9Pz"
+    ],
+    "nation": "germany_east"
+  },
+  {
     "id": 27,
     "name": "K.d.A. Bezirk Erfurt",
     "alias": [
       "ABE"
     ],
-    "nation": "ddr"
+    "nation": "germany_east"
+  },
+  {
+    "id": 97,
+    "name": "Korpus Desantowy",
+    "alias": [
+      "Korpus"
+    ],
+    "nation": "poland"
   },
   {
     "id": 300,
     "name": "Rugener Gruppierung",
     "alias": [
-      "RUG"
+      "Rugener"
     ],
-    "nation": "ddr"
+    "nation": "germany_east"
   },
   {
     "id": 33,
@@ -101,6 +141,6 @@
     "alias": [
       "ZEN"
     ],
-    "nation": "ddr"
+    "nation": "germany_east"
   }
 ]
