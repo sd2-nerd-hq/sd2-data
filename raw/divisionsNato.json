@@ -120,6 +120,14 @@
     "nation": "france"
   },
   {
+    "id": 319,
+    "name": "6th Infantry Division (Light)",
+    "alias": [
+      "6Inf"
+    ],
+    "nation": "usa"
+  },
+  {
     "id": 24,
     "name": "82nd Airborne",
     "alias": [
