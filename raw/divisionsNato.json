@@ -160,6 +160,22 @@
     "nation": "uk"
   },
   {
+    "id": 306,
+    "name": "CLKA",
+    "alias": [
+      "CLKA"
+    ],
+    "nation": "netherlands"
+  },
+  {
+    "id": 302,
+    "name": "DIVMOB",
+    "alias": [
+      "DIVMOB"
+    ],
+    "nation": "belgium"
+  },
+  {
     "id": 90,
     "name": "MultiNational Airborne Division",
     "alias": [
