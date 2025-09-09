@@ -1,11 +1,27 @@
 [
   {
+    "id": 311,
+    "name": "1 Canadian Division",
+    "alias": [
+      "1AD"
+    ],
+    "nation": "canada"
+  },
+  {
     "id": 29,
     "name": "1. Armoured Division",
     "alias": [
       "1AD"
     ],
     "nation": "uk"
+  },
+  {
+    "id": 312,
+    "name": "1. Luftlande-Division",
+    "alias": [
+      "1LD"
+    ],
+    "nation": "germany_west"
   },
   {
     "id": 221,
@@ -120,6 +136,14 @@
     "nation": "france"
   },
   {
+    "id": 197,
+    "name": "6e Division Legere Blindée",
+    "alias": [
+      "6DB"
+    ],
+    "nation": "france"
+  },
+  {
     "id": 319,
     "name": "6th Infantry Division (Light)",
     "alias": [
@@ -166,6 +190,14 @@
       "CLKA"
     ],
     "nation": "netherlands"
+  },
+  {
+    "id": 313,
+    "name": "Division Acorazada 'Brunete'",
+    "alias": [
+      "DAB"
+    ],
+    "nation": "spain"
   },
   {
     "id": 302,

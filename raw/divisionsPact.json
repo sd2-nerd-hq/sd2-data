@@ -1,5 +1,13 @@
 [
   {
+    "id": 317,
+    "name": "1. Tankova Divize",
+    "alias": [
+      "1TD"
+    ],
+    "nation": "czechoslovakia"
+  },
+  {
     "id": 195,
     "name": "119-Y Odt. Tank. Polk",
     "alias": [
@@ -14,6 +22,14 @@
       "157MSD"
     ],
     "nation": "ussr"
+  },
+  {
+    "id": 316,
+    "name": "19. Motostrelecka Divize",
+    "alias": [
+      "19MD"
+    ],
+    "nation": "czechoslovakia"
   },
   {
     "id": 95,
@@ -36,6 +52,22 @@
     "name": "27-Ya Gv. Motostrelk. Div.",
     "alias": [
       "27MSD"
+    ],
+    "nation": "ussr"
+  },
+  {
+    "id": 318,
+    "name": "303. Tankova Divize",
+    "alias": [
+      "303TD"
+    ],
+    "nation": "czechoslovakia"
+  },
+  {
+    "id": 315,
+    "name": "31-ya Tank. Div.",
+    "alias": [
+      "35TD"
     ],
     "nation": "ussr"
   },
