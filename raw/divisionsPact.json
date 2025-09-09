@@ -152,6 +152,14 @@
     "nation": "germany_east"
   },
   {
+    "id": 33,
+    "name": "Berliner Gruppierung",
+    "alias": [
+      "Berliner"
+    ],
+    "nation": "germany_east"
+  },
+  {
     "id": 27,
     "name": "K.d.A. Bezirk Erfurt",
     "alias": [
@@ -172,14 +180,6 @@
     "name": "Rugener Gruppierung",
     "alias": [
       "Rugener"
-    ],
-    "nation": "germany_east"
-  },
-  {
-    "id": 33,
-    "name": "Unternehmen Zentrum",
-    "alias": [
-      "ZEN"
     ],
     "nation": "germany_east"
   }
