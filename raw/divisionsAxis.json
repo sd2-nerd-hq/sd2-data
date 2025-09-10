@@ -89,6 +89,14 @@
     "nation": "germany"
   },
   {
+    "id": 802,
+    "name": "13. Gyaloghadosztály",
+    "alias": [
+      "13th Gyalo"
+    ],
+    "nation": "hungary"
+  },
+  {
     "id": 149,
     "name": "14. Infanterie",
     "alias": [
@@ -129,6 +137,14 @@
     "nation": "germany"
   },
   {
+    "id": 804,
+    "name": "18. SS-PzGrenadier-Division",
+    "alias": [
+      "18th SS"
+    ],
+    "nation": "germany"
+  },
+  {
     "id": 787,
     "name": "2. Panzer",
     "alias": [
@@ -157,6 +173,14 @@
     "name": "20. Panzergrenadier",
     "alias": [
       "20PG"
+    ],
+    "nation": "germany"
+  },
+  {
+    "id": 804,
+    "name": "208. Infanterie-Division",
+    "alias": [
+      "208ID"
     ],
     "nation": "germany"
   },

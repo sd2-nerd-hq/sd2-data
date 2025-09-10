@@ -1,5 +1,13 @@
 [
   {
+    "id": 799,
+    "name": "1. Československý Armádní Sbor",
+    "alias": [
+      "1CAS"
+    ],
+    "nation": "czechoslovakia"
+  },
+  {
     "id": 782,
     "name": "1st Airborne Task Force",
     "alias": [
@@ -178,6 +186,14 @@
   {
     "id": 635,
     "name": "19-y Tank Korpus",
+    "alias": [
+      "19GTC"
+    ],
+    "nation": "ussr"
+  },
+  {
+    "id": 803,
+    "name": "242-ya Gornostrelkovaya",
     "alias": [
       "19GTC"
     ],
@@ -448,5 +464,13 @@
       "DBSAS"
     ],
     "nation": "france"
+  },
+  {
+    "id": 633,
+    "name": "Slovak National Uprising",
+    "alias": [
+      "SNP"
+    ],
+    "nation": "czechoslovakia"
   }
 ]
