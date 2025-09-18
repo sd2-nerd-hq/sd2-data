@@ -305,12 +305,12 @@ const mapExceptions = {
   "MarecagesNaratchlake": "NaratchLake",
   "RiversPleshchenitsyS": "PleshchenitsySouth",
 
-  "zigzag": "Vertigo",
+  "Zigzag": "Vertigo",
   "BlackForestStorm": "BlackForest",
   "Serpent": "Ripple",
   "DeuxCouloirs": "TwoWays",
   "IFleuve": "MountRiver",
-  "boucle": "Loop",
+  "Boucle": "Loop",
 }
 
 module.exports = { incomeLevel, incomeTypes, scoreLimit, victory, mode, map, aiLevel, mapExceptions }
