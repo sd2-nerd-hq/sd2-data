@@ -24,6 +24,14 @@
     "nation": "ussr"
   },
   {
+    "id": 314,
+    "name": "17-Ya Gv. Tank. Div.",
+    "alias": [
+      "17TD"
+    ],
+    "nation": "ussr"
+  },
+  {
     "id": 316,
     "name": "19. Motostrelecka Divize",
     "alias": [
