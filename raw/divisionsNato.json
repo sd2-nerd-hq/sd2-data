@@ -192,6 +192,14 @@
     "nation": "netherlands"
   },
   {
+    "id": 302,
+    "name": "DIVMOB",
+    "alias": [
+      "DIVMOB"
+    ],
+    "nation": "belgium"
+  },
+  {
     "id": 313,
     "name": "Division Acorazada 'Brunete'",
     "alias": [
@@ -200,12 +208,12 @@
     "nation": "spain"
   },
   {
-    "id": 302,
-    "name": "DIVMOB",
+    "id": 92,
+    "name": "Division du Rhin",
     "alias": [
-      "DIVMOB"
+      "Rhin"
     ],
-    "nation": "belgium"
+    "nation": "france"
   },
   {
     "id": 90,
