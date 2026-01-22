@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "sourceMap": true,
+    "target": "ES6",       
+    "module": "commonjs",  
+    "outDir": "./dist",    
+    "resolveJsonModule": true,
+    "skipLibCheck": true
+//    "strictNullChecks": true
+  },
+  "include": ["."],
+  "exclude": [
+    "node_modules"
+  ]
+}
