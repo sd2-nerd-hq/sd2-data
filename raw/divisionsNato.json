@@ -208,12 +208,28 @@
     "nation": "spain"
   },
   {
+    "id": 407,
+    "name": "Division De Inf. Meca. 'Guzman El Bueno'",
+    "alias": [
+      "DIMGEB"
+    ],
+    "nation": "spain"
+  },
+  {
     "id": 92,
     "name": "Division du Rhin",
     "alias": [
       "Rhin"
     ],
     "nation": "france"
+  },
+  {
+    "id": 392,
+    "name": "H.D.R. London",
+    "alias": [
+      "HDR"
+    ],
+    "nation": "uk"
   },
   {
     "id": 90,

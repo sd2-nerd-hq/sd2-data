@@ -40,6 +40,22 @@
     "nation": "czechoslovakia"
   },
   {
+    "id": 391,
+    "name": "2-Ya Gv. Motostrelk. Div.",
+    "alias": [
+      "2MD"
+    ],
+    "nation": "ussr"
+  },
+  {
+    "id": 408,
+    "name": "2. Motostrelecka Divize",
+    "alias": [
+      "2MSD"
+    ],
+    "nation": "czechoslovakia"
+  },
+  {
     "id": 95,
     "name": "20 Dywizja Pancerna",
     "alias": [
