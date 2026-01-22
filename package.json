@@ -5,6 +5,7 @@
     "main": "index.js",
     "typings": "index.d.ts",
     "scripts": {
+        "prepare": "npm run build",
         "test": "tsd . | mocha",
         "lint": "eslint .",
         "lint:fix": "eslint . --fix",
