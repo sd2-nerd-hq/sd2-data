@@ -24,6 +24,14 @@
     "nation": "germany_west"
   },
   {
+    "id": 421,
+    "name": "1st Cavalry Division",
+    "alias": [
+      "1CAV"
+    ],
+    "nation": "usa"
+  },
+  {
     "id": 221,
     "name": "101st Airborne Division",
     "alias": [
